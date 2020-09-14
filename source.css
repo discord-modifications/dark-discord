@@ -640,7 +640,7 @@
    border-radius: 5px;
    box-shadow: 0 2px 10px rgba(240, 71, 71, 0.3);
    animation: flash 1s ease infinite;
-   border: 1px solid transparent
+   border: 1px solid transparent;
    opacity: 1;
 }
 
