@@ -1,8 +1,8 @@
 {
-    "name": "Discord Revamp",
-    "description": "A revamped discord based on discord's current website.",
+    "name": "Dark Discors",
+    "description": "Discord but dark.",
     "version": "1.0.0",
-    "author": "REDACTED#9999",
+    "author": "Snapperito#0001",
     "theme": "custom.css",
     "consent": "false",
     "splashTheme": "splash.css",
