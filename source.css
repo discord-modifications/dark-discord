@@ -62,7 +62,6 @@
 }
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active,
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover,
-.themeDefault-24hCdX,
 .theme-dark .closeButton-1tv5uR:hover,
 .theme-dark .notDetected-33MY4s,
 .theme-light .notDetected-33MY4s,
@@ -84,7 +83,6 @@
 /* All alone --background-secondary-alt background colors. */
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active,
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover,
-.themeDefault-24hCdX,
 .theme-dark .closeButton-1tv5uR:hover, 
 .lookFilled-1Gx00P.colorGrey-2DXtkV:hover,
 .theme-dark .tierInProgress-3mBoXq,
@@ -168,7 +166,7 @@
 .button-3HqqDX,
 .scopeTimes-7s84Xf,
 .input-2VB9rf {
-    background: var(--background-accent)
+    background-color: var(--background-accent) !important
 }
 .centerButton-3CaNcJ:hover,
 .theme-dark .iconWrapper-3LVgIo,
@@ -192,7 +190,7 @@
 .theme-dark .tile-2OwFgW:hover,
 .toolbar-2bjZV7,
 .theme-dark .popout-38lTFE {
-    background-color: var(--background-floating)
+    background-color: var(--background-floating) !important
 }
 .optionContainer-15srkc:hover,
 .pictureInPictureVideo-2iKsGg {
@@ -212,7 +210,7 @@
 .theme-dark .memberListItem-2ZX2pl:not(.popoutDisabled-xucru2):hover,
 .theme-dark .quickSelectPopoutOption-opKBx9:hover,
 .theme-dark .verificationBlock-1Chfpc:hover {
-    background-color: var(--background-modifier-hover);
+    background-color: var(--background-modifier-hover) !important
 }
 
 .theme-dark .optionActive-KkAdqq {
@@ -318,21 +316,11 @@
 /* All alone --interactive-normal colors. */
 .theme-dark .description-11DmNu,
 .theme-dark .descriptionUsername-J_75O8 {
-   color: var(--interactive-normal);
+   color: var(--interactive-normal) !important
 }
 .theme-dark .iconForeground-1w5n7R {
-   fill: var(--interactive-normal);
+   fill: var(--interactive-normal) !important
 }
-
-
-
-
-
-
-
-
-
-
 
 
 /* Scroller stuff */
