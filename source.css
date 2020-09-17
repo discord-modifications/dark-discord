@@ -1652,27 +1652,4 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 }
 
 
-/* Role color fill */
-.role-2irmRk {
-    position: relative;
-    overflow: hidden;
-    z-index: 1;
-    border: none;
-    padding: 5px;
-}
- 
-.roleCircle-3xAZ1j::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: inherit;
-    opacity: 0.2;
-    z-index: -1;
-    pointer-events: none;
-}
-.footer-1fjuF6 {
-    border-top: none;
-} 
+
