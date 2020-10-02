@@ -1,7 +1,5 @@
 # Dark Discord
  hellbounds dark discord but it exists 
- 
- ![](https://cdn.discordapp.com/attachments/746276985554206810/755163290782400582/unknown.png)
 
 # Previews
 
@@ -10,11 +8,18 @@
 
 # Installation
 Head over to your themes folder, open a command prompt / powershell / terminal / or git bash and enter the following:
-`git clone https://github.com/Snapperito/Dark-Discord`
+```
+git clone https://github.com/Snapperito/Dark-Discord
+```
 
 # Add Rounded Borders
 Open your Custom Css tab and this link
-`@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MoreRoundedBorders/borders.css");`
+```
+@import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MoreRoundedBorders/borders.css");
+```
 
 **Preview**
 ![](https://cdn.discordapp.com/attachments/757721053379297423/761423997186473984/unknown.png)
+
+#Discord Revamp
+If you're looking for dark discord, look here: https://github.com/LuckFire/Discord-Revamp
