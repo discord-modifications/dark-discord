@@ -13,7 +13,7 @@ git clone https://github.com/Snapperito/Dark-Discord
 ```
 
 # Add Rounded Borders
-Open your Custom Css tab and this link
+Open your Custom Css tab and paste this link
 ```
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MoreRoundedBorders/borders.css");
 ```
@@ -21,5 +21,5 @@ Open your Custom Css tab and this link
 **Preview**
 ![](https://cdn.discordapp.com/attachments/757721053379297423/761423997186473984/unknown.png)
 
-#Discord Revamp
+# Discord Revamp
 If you're looking for dark discord, look here: https://github.com/LuckFire/Discord-Revamp
