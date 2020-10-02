@@ -22,4 +22,4 @@ Open your Custom Css tab and paste this link
 ![](https://cdn.discordapp.com/attachments/757721053379297423/761423997186473984/unknown.png)
 
 # Discord Revamp
-If you're looking for dark discord, look here: https://github.com/LuckFire/Discord-Revamp
+If you're looking for discord revamp, look here: https://github.com/LuckFire/Discord-Revamp
