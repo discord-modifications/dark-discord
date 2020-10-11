@@ -1651,5 +1651,6 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
    background-color: var(--background-accent);
 }
 
-
-
+.autocompleteRow-2OthDa > .selected-1Tbx07 {
+    background: var(--background-primary);
+}
