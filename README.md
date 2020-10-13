@@ -4,7 +4,7 @@
 # Downloads
 **Powercord** : `git clone https://github.com/Snapperito/Dark-Discord`
 
-[**BetterDiscord**](http://betterdiscord.net/ghdl/?url=https://raw.githubusercontent.com/Snapperito/Dark-Discord/master/darkdiscord.theme.css)
+[**BetterDiscord**](https://betterdiscord.net/ghdl?id=3398)
 # Previews
 
 ![](https://cdn.discordapp.com/attachments/757721053379297423/761422431960432710/unknown.png)
