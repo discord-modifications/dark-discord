@@ -11,9 +11,11 @@ Head over to your themes folder, open a command prompt / powershell / terminal /
 ```
 git clone https://github.com/Snapperito/Dark-Discord
 ```
+# Better Discord Installation
+Click on the file named **"darkdiscord.theme.css"** then click on the **raw** button. (or just click [here](https://raw.githubusercontent.com/Snapperito/Dark-Discord-BD/main/darkdiscord.theme.css))
 
 # Add Rounded Borders
-Open your Custom Css tab and paste this link
+Open your Custom CSS tab and paste this link
 ```
 @import url("https://raw.githack.com/LuckFire/CSS-Snippets/master/MoreRoundedBorders/borders.css");
 ```
