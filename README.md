@@ -1,20 +1,14 @@
 # Dark Discord
  hellbounds dark discord but it exists and is maintained lmao
 
+# Downloads
+**Powercord** : `git clone https://github.com/Snapperito/Dark-Discord`
+
+[**BetterDiscord**](http://betterdiscord.net/ghdl/?url=https://raw.githubusercontent.com/Snapperito/Dark-Discord/master/darkdiscord.theme.css)
 # Previews
 
 ![](https://cdn.discordapp.com/attachments/757721053379297423/761422431960432710/unknown.png)
 ![](https://cdn.discordapp.com/attachments/757721053379297423/761423393823916032/unknown.png)
-
-# Installation
-Head over to your themes folder, open a command prompt / powershell / terminal / or git bash and enter the following:
-```
-git clone https://github.com/Snapperito/Dark-Discord
-```
-# Better Discord Installation
-Click on the file named **"darkdiscord.theme.css"** then click on the **raw** button. (or just click [here](https://raw.githubusercontent.com/Snapperito/Dark-Discord/master/DarkDiscordBD.theme.css))
-
-Then run **Ctrl + S** and drag the downloaded file into your BetterDiscord themes folder
 
 # Add Rounded Borders
 Open your Custom CSS tab and paste this link
