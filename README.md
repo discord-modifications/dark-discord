@@ -13,6 +13,7 @@ git clone https://github.com/Snapperito/Dark-Discord
 ```
 # Better Discord Installation
 Click on the file named **"darkdiscord.theme.css"** then click on the **raw** button. (or just click [here](https://raw.githubusercontent.com/Snapperito/Dark-Discord-BD/main/darkdiscord.theme.css))
+Then run *Ctrl + S* and drag the downloaded file into your BetterDiscord themes file
 
 # Add Rounded Borders
 Open your Custom CSS tab and paste this link
