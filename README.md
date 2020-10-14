@@ -2,9 +2,9 @@
  hellbounds dark discord but it exists and is maintained lmao
 
 # Downloads
-**Powercord** : `git clone https://github.com/Snapperito/Dark-Discord`
+**Powercord Install** : `git clone https://github.com/Snapperito/Dark-Discord`
 
-[**BetterDiscord**](https://betterdiscord.net/ghdl?id=3398)
+[**BetterDiscord Install**](https://betterdiscord.net/ghdl?id=3398)
 # Previews
 
 ![](https://cdn.discordapp.com/attachments/757721053379297423/761422431960432710/unknown.png)
