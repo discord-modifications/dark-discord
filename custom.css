@@ -20,7 +20,8 @@
     --activity-card-background: var(--background-primary) !important;
     --channels-default: #9f9f9f !important;
     --text-muted: #b6b6b6 !important;
-    --text-normal: #fbfbfb !important; 
+    --text-normal: #fbfbfb !important;
+    --background-message-hover: #00000030 !important;
     --interactive-normal: #c8c8c8 !important;
     --interactive-hover: #dcddde !important;
     --interactive-active: #fff !important;
