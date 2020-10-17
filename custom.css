@@ -19,6 +19,7 @@
     --deprecated-text-input-border-disabled: var(--background-tertiary) !important;
     --activity-card-background: var(--background-primary) !important;
     --channels-default: #9f9f9f !important;
+    --background-message-hover: #00000030 !important; /*change this to change the message hover color*/
     --text-muted: #b6b6b6 !important;
     --text-normal: #fbfbfb !important; 
     --interactive-normal: #c8c8c8 !important;
