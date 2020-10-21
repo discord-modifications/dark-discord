@@ -146,8 +146,8 @@
    box-shadow: 0 1px 0 0 var(--background-modifier-accent);
 }
 
-.theme-dark .notDetected-33MY4s, .theme-light .notDetected-33MY4s {
-   background-color: var(--background-secondary-alt);
+.theme-dark .notDetected-33MY4s {
+   background-color: var(--background-tertiary);
 }
 
 .theme-dark .overlayToggleIconOn-3UNmty .fill-1ugeBG {
@@ -1585,4 +1585,26 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 
 .theme-dark .selected-1Tbx07 {
    background-color: var(--background-modifier-active);
+}
+
+.connectionHeader-2MDqhu {
+   background: var(--background-tertiary);
+}
+
+.connection-1fbD7X {
+   background-color: var(--background-secondary);
+}
+
+.accountList-33MS45 {
+   background-color: var(--background-secondary);
+}
+
+.css-3vaxre-menu {
+   background-color: var(--background-secondary) !important;
+   border-color: var(--background-floating) !important;
+   box-shadow: none !important;
+}
+
+.theme-dark .overlayToggleIconOn-3UNmty .fill-1ugeBG {
+   fill: var(--channels-default) !important;
 }
