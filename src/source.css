@@ -1608,3 +1608,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .theme-dark .overlayToggleIconOn-3UNmty .fill-1ugeBG {
    fill: var(--channels-default) !important;
 }
+
+.theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
+   background-color: var(--background-accent);
+}
