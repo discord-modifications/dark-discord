@@ -9,7 +9,7 @@
 
 **/
 
-@import url(https://raw.githack.com/slow/dark-discord/master/src/source.css);
+@import url(https://raw.githack.com/slow/dark-discord/main/src/source.css);
 .theme-dark, .theme-light, :root {
    --background-primary: #141414 !important;
    --background-secondary: #111111 !important;
