@@ -2,7 +2,7 @@
 An actual dark mode for discord.
 
 # Downloads
-- [BetterDiscord](https://betterdiscord.net/ghdl?id=3418)
+- [BetterDiscord](https://betterdiscord.net/ghdl?id=3420)
 - Powercord: `git clone https://github.com/slow/dark-discord/`
 
 # Preview
