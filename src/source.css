@@ -1612,3 +1612,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
    background-color: var(--background-accent);
 }
+
+.button-F9qN4n:hover, .keyboard-mode .button-F9qN4n.focused-3ZzkKr {
+    background-color: var(--background-secondary);
+}
