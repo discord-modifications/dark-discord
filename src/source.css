@@ -1616,3 +1616,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .button-F9qN4n:hover, .keyboard-mode .button-F9qN4n.focused-3ZzkKr {
    background-color: var(--background-secondary);
 }
+
+.theme-dark .container-VSDcQc .input-1ppKdn::placeholder {
+   color: var(--text-muted) !important;
+}
