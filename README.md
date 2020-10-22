@@ -6,7 +6,9 @@ An actual dark mode for discord.
 - Powercord: `git clone https://github.com/slow/dark-discord/`
 
 # Preview
-<img src="https://i.imgur.com/ehSSS0U.png"/>
+<img src="https://media.wtf/54444666"/>
+<img src="https://media.wtf/20130134"/>
+<img src="https://media.wtf/46289749"/>
 
 # Support 
 - eternal#1000
