@@ -1,0 +1,91 @@
+@import url("https://raw.githack.com/LuckFire/Theme-Source/main/src/source.css");
+
+@keyframes flash {
+    100% {
+        border-color: white;
+    }
+    50% {
+        border-color: #f04747;
+    }
+    0% {
+        border-color: white;
+    }
+}
+
+
+.theme-light .layer-3QrUeG:first-of-type::before {
+   content: 'To use this theme, you must have dark mode enabled. In order to enable it, go in Settings -> Appearence -> Dark';
+   position: fixed;
+   display: block;
+   width: 400px;
+   height: 35px;
+   top: 50%;
+   left: 50%;
+   background: var(--background-primary);
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   color: white;
+   padding: 20px;
+   border-radius: 5px;
+   box-shadow: 0 2px 10px rgba(240, 71, 71, 0.3);
+   border: 3px solid #f04747;
+   z-index: 2;
+}
+
+.theme-light .preview-2nSL_2.cardPrimaryOutline-29Ujqw + .marginTop40-i-78cZ .radioGroup-1GBvlr .cardPrimaryEditable-3KtE4g:first-of-type,
+.theme-light .preview-2nSL_2.cardPrimaryOutline-29Ujqw + .marginTop40-i-78cZ .radioGroup-1GBvlr .item-26Dhrx:first-of-type {
+   animation: flash 1s ease infinite;
+    background: #f04747;
+    color: white;
+}
+
+
+.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3) {
+   position: fixed;
+   left: 50%;
+   top: 50%;
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   margin-top: 70px;
+   width: 230px;
+   height: 40px;
+   visibility: visible !important;
+   background: #f04747 !important;
+   border-radius: 5px;
+   box-shadow: 0 2px 10px rgba(240, 71, 71, 0.3);
+   animation: flash 1s ease infinite;
+   border: 1px solid transparent;
+   opacity: 1;
+}
+
+.theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3)::before {
+   position: absolute;
+   z-index: 10000;
+   content: 'Open Settings';
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 230px;
+   height: 14px;
+   border-radius: 5px;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   visibility: visible !important;
+   font-size: 17px;
+   font-weight: 700;
+   color: white;
+   text-align: center;
+}
+
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *,
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after,
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before {
+    visibility: hidden !important;
+}
+
+.platform-win.theme-light .item-PXvHYJ:nth-of-type(20), html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
+    background: #f04747 !important;
+    border: 1px solid transparent;
+    animation: flash 1s ease infinite;
+}
