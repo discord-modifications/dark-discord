@@ -37,7 +37,7 @@ html.theme-dark .theme-light .footer-2gL1pp {
 }
 
 
-.theme-light .layer-3QrUeG:first-of-type::before {
+/*.theme-light .layer-3QrUeG:first-of-type::before {
    content: 'To use this theme, you must have dark mode enabled. In order to enable it, go in Settings -> Appearence -> Dark';
    position: fixed;
    display: block;
@@ -112,4 +112,4 @@ html.theme-dark .theme-light .footer-2gL1pp {
     background: #f04747 !important;
     border: 1px solid transparent;
     animation: flash 1s ease infinite;
-}
+}*/
