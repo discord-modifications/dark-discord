@@ -1,5 +1,29 @@
 @import url("https://raw.githack.com/LuckFire/Theme-Source/main/src/source.css");
 
+html.theme-dark .theme-light {
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --text-normal: #dcddde;
+    --background-primary: var(--backgruond-primary) !important;
+    --background-secondary: #111111 !important;
+    --background-secondary-alt: #292929 !important;
+    --background-tertiary: black !important;
+    --background-modifier-accent: rgb(15, 15, 15) !important;
+    --background-modifier-hover: rgb(15, 15, 15) !important;
+}
+html.theme-dark .theme-light .root-1gCeng {
+    background-color: #141414 !important;
+    box-shadow: 0 0 0 1px var(--background-secondary), 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
+} 
+html.theme-dark .theme-light .footer-2gL1pp {
+    background-color: #0c0c0c !important;
+    box-shadow: inset 0 1px 0 var(--background-tertiary) !important;
+    color: var(--text-normal) !important;
+}
+.footerButton-ayFTfX.colorGrey-2DXtkV {
+    background-color: #242424 !important;
+}
+
 @keyframes flash {
     100% {
         border-color: white;
