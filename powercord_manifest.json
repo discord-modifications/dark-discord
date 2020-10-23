@@ -1,8 +1,8 @@
 {
     "name": "Dark Discord",
     "description": "Discord but dark.",
-    "version": "1.0.0",
-    "author": "REDACTED#9999",
+    "version": "1.1.0",
+    "author": "REDACTED",
     "theme": "custom.css",
     "consent": "false",
     "splashTheme": "splash.css",
