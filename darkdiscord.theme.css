@@ -1,6 +1,6 @@
 //META{"name":"Dark Discord","description":"Discord but Dark.","author":"REDACATED#9999","version":"1.1.0","authorId":"431883840483491850","website":"https://github.com/Snapperito/Dark-Discord","source":"https://raw.githubusercontent.com/Snapperito/Dark-Discord/master/darkdiscord.theme.css"}*//{}
 
-@import url("https://raw.githack.com/Snapperito/Dark-Discord/master/src/source.ss");
+@import url("https://raw.githack.com/Snapperito/Dark-Discord/master/src/source.css");
 
 .theme-dark,
 .theme-light,
