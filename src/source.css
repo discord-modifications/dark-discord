@@ -1620,3 +1620,8 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .theme-dark .container-VSDcQc .input-1ppKdn::placeholder {
    color: var(--text-muted) !important;
 }
+
+.theme-dark .footerSeparator-M9dQY1 {
+   -webkit-box-shadow: 0 -1px 0 var(--background-modifier-accent);
+   box-shadow: 0 -1px 0 var(--background-modifier-accent);
+}
