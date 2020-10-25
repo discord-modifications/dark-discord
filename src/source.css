@@ -1629,3 +1629,11 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .guildSection-1EoFKd {
    background-color: var(--background-floating);
 }
+
+.theme-dark .overridePlaceholder-14_rPI {
+   border: 1px dashed var(--background-accent);
+}
+
+.css-gvi9bl-control {
+    border-color: var(--deprecated-text-input-border) !important;
+}
