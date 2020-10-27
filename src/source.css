@@ -1641,3 +1641,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .css-o3gndj-placeholder {
    color: var(--text-muted) !important;
 }
+
+.diversitySelectorPopout-3FiGaM {
+   background-color: var(--background-tertiary);
+}
