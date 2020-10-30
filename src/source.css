@@ -1645,3 +1645,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .diversitySelectorPopout-3FiGaM {
    background-color: var(--background-tertiary);
 }
+
+.theme-dark .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa {
+   background-color: var(--background-modifier-active);
+}
