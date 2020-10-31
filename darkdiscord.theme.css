@@ -36,7 +36,4 @@
     --offline-color: rgb(60, 60, 60) !important;
 }
 
-/* BD PLUGIN SUPPORT */
-#MemberCount > h2 {
-    color: var(--background-secondary);
-}
+
