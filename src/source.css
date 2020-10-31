@@ -82,6 +82,6 @@ html.theme-dark .theme-light .footer-2gL1pp {
 }
 
 /* BD PLUGIN SUPPORT */
-#MemberCount > h2 {
-    color: var(--background-secondary);
+#MemberCount{
+ background: transparent !important;
 }
