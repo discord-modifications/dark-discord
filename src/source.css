@@ -1649,3 +1649,11 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .theme-dark .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa {
    background-color: var(--background-modifier-active);
 }
+
+.theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
+   background-color: var(--background-accent);
+}
+
+.theme-dark .spoilerText-3p6IlD.hidden-HHr2R9:hover {
+   background-color: rgba(50, 50, 50, 0.5);
+}
