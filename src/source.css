@@ -1661,3 +1661,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .popoutLoadingForeground-2mZT61 {
    background-image: linear-gradient(90deg,var(--background-accent),var(--background-secondary-alt), var(--background-tertiary));
 }
+
+.outer-1AjyKL {
+   background-color: var(--background-tertiary);
+}
