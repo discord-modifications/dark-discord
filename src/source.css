@@ -1665,3 +1665,7 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .outer-1AjyKL {
    background-color: var(--background-tertiary);
 }
+
+.theme-dark .markdown-11q6EU code {
+   background-color: var(--background-accent);
+}
