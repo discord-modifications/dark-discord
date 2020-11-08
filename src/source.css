@@ -650,3 +650,79 @@ html:not(#\20) .css-gvi9bl-control {
 .button-3HqqDX:hover {
    background-color: #242424;
 }
+
+.lookGhost-2Fn_0-.colorGrey-2DXtkV {
+   color: var(--text-muted);
+}
+
+.theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
+   background-color: var(--background-tertiary);
+}
+
+.theme-dark .headerExpanded-CUEwZ5 {
+   background-color: var(--background-modifier-selected);
+}
+
+.theme-dark .changeDetails-bk98pu {
+   background-color: var(--background-modifier-hover);
+}
+.theme-dark .divider-1pnAR2 {
+   background-color: var(--background-modifier-accent);
+}
+
+.theme-dark .auditLog-3jNbM6 {
+   border-color: var(--background-modifier-accent);
+}
+
+.theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN {
+   background-color: var(--background-modifier-hover);
+}
+
+.theme-dark .tierHeaderLocked-1a2opw {
+   background-color: var(--background-tertiary);
+}
+
+.theme-dark .tierBody-x9kBBp {
+   background-color: var(--background-secondary);
+}
+
+.theme-dark .tierInProgress-3mBoXq {
+   background-color: var(--background-accent);
+}
+
+.theme-dark .background-3xPPFc {
+   color: var(--background-accent);
+}
+
+.theme-dark .perksModal-fSYqOq {
+   background-color: var(--background-primary);
+}
+
+.theme-dark .tierMarkerBackground-3q29am {
+   background-color: var(--background-primary);
+}
+
+.theme-dark .tierBody-16Chc9 {
+   background-color: var(--background-secondary);
+}
+
+.theme-dark .perk-2WeBWW {
+   background-color: var(--background-secondary);
+}
+
+.theme-dark .tierHeaderLocked-1s2JJz {
+   background-color: var(--background-tertiary);
+   color: var(--text-muted);
+}
+
+.tierMarkerAccomplished-2MiXeg, .tierMarkerInProgress-24LMzJ {
+   background: var(--background-accent) !important;
+}
+
+.theme-dark .barBackground-2EEiLw {
+   background-color: var(--background-accent);
+}
+
+.tierMarkerAccomplished-2MiXeg.tierMarker-5HkGJ_ {
+   background: rgb(255, 115, 250) !important;
+}
