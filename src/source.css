@@ -571,3 +571,21 @@ html:not(#\20) .css-gvi9bl-control {
 .colorable-1bkp8v.primaryDark-3mSFDl.active-1QRrIS, .colorable-1bkp8v.primaryDark-3mSFDl:hover {
    background: var(--background-modifier-accent);
 }
+
+.theme-dark .uploadModal-2ifh8j {
+   background-color: var(--background-primary);
+   -webkit-box-shadow: var(--elevation-high);
+   box-shadow: var(--elevation-high);
+}
+
+.theme-dark .footer-3mqk7D {
+   background-color: var(--background-secondary);
+   -webkit-box-shadow: var(--elevation-high);
+   box-shadow: var(--elevation-high);
+}
+
+.theme-dark .message-2qRu38 {
+   background-color: var(--background-secondary);
+   -webkit-box-shadow: var(--elevation-high);
+   box-shadow: var(--elevation-high);
+}
