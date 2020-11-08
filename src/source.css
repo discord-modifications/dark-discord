@@ -589,3 +589,8 @@ html:not(#\20) .css-gvi9bl-control {
    -webkit-box-shadow: var(--elevation-high);
    box-shadow: var(--elevation-high);
 }
+
+.bd-toast {
+   background: var(--background-floating);
+   box-shadow: var(--elevation-high);
+}
