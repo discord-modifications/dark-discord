@@ -45,14 +45,6 @@
    --toast-border: transparent !important;
 }
 
-.colorGrey-2DXtkV {
-   background-color: var(--background-accent) !important;
-}
-
-.colorGrey-2DXtkV:hover {
-   background-color: #262626 !important;
-}
-
 .imageLoading-bpSr0M {
    background: var(--background-accent) !important;
    border-radius: 10px;
@@ -597,6 +589,19 @@ html:not(#\20) .css-gvi9bl-control {
 
 .theme-dark .modal-yWgWj- {
    background-color: var(--background-primary);
+   -webkit-box-shadow: var(--elevation-high);
+   box-shadow: var(--elevation-high);
+}
+
+.flowerStar-1GeTsn path {
+   fill: var(--background-accent) !important;
+}
+
+.theme-dark .addGamePopout-2RY8Ju {
+   background-color: var(--background-secondary);
+}
+
+.theme-dark .elevationBorderHigh-2WYJ09 {
    -webkit-box-shadow: var(--elevation-high);
    box-shadow: var(--elevation-high);
 }
