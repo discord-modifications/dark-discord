@@ -617,3 +617,7 @@ html:not(#\20) .css-gvi9bl-control {
    -webkit-box-shadow: var(--elevation-high);
    box-shadow: var(--elevation-high);
 }
+
+.theme-dark .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa {
+   background-color: var(--background-modifier-accent);
+}
