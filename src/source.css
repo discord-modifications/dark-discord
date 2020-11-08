@@ -626,3 +626,15 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .keyboardShortcutsModal-3piNz7 {
    background-color: var(--background-primary);
 }
+
+.toolbar-2bjZV7:before {
+   border-top: 8px solid var(--background-floating);
+}
+
+.toolbar-2bjZV7 {
+   background-color: var(--background-floating);
+}
+
+.active-2HPddW, .hover-28QbSq:hover {
+   background-color: var(--background-modifier-hover);
+}
