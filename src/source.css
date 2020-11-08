@@ -479,3 +479,42 @@ html:not(#\20) .css-gvi9bl-control {
 .colorable-1bkp8v.primaryDark-3mSFDl.active-1QRrIS, .colorable-1bkp8v.primaryDark-3mSFDl:hover {
    background: var(--background-modifier-accent);
 }
+
+.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
+   background-color: var(--background-accent);
+}
+
+.theme-dark .focused-2bY0OD {
+   background-color: var(--background-modifier-active);
+}
+
+.theme-dark .queryContainer-RKFJW- {
+   color: var(--text-muted);
+   border-bottom-color: var(--background-modifier-accent);
+}
+
+.theme-dark .option-96V44q .filter-3Y_im- {
+   color: var(--text-muted);
+}
+
+.theme-dark .dim-1l4L4y span {
+    background-color: var(--background-accent);
+}
+
+.theme-dark .keybindShortcut-1BD6Z1 span {
+    -webkit-box-shadow: inset 0 -4px 0 var(--background-secondary);
+    box-shadow: inset 0 -4px 0 var(--background-secondary);
+    border: 1px solid var(--background-primary);
+}
+
+.theme-dark .focused-2bY0OD {
+    background-color: var(--background-modifier-active);
+}
+
+.theme-dark .container-3ayLPN {
+    background-color: var(--background-secondary);
+}
+.theme-dark .elevationBorderHigh-2WYJ09 {
+    -webkit-box-shadow: var(--elevation-high);
+    box-shadow: var(--elevation-high);
+}
