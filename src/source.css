@@ -563,3 +563,11 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
    color: var(--text-normal);
 }
+
+.colorable-1bkp8v.primaryDark-3mSFDl {
+   background: var(--background-primary);
+}
+
+.colorable-1bkp8v.primaryDark-3mSFDl.active-1QRrIS, .colorable-1bkp8v.primaryDark-3mSFDl:hover {
+   background: var(--background-modifier-accent);
+}
