@@ -480,12 +480,6 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-accent);
 }
 
-.theme-dark .keybindShortcut-1BD6Z1 span {
-   -webkit-box-shadow: inset 0 -4px 0 var(--background-secondary);
-   box-shadow: inset 0 -4px 0 var(--background-tertiary);
-   border: 1px solid var(--background-primary);
-}
-
 .theme-dark .focused-2bY0OD {
    background-color: var(--background-modifier-active);
 }
@@ -620,4 +614,15 @@ html:not(#\20) .css-gvi9bl-control {
 
 .theme-dark .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa {
    background-color: var(--background-modifier-accent);
+}
+
+.theme-dark .keybindShortcut-1BD6Z1 span {
+   -webkit-box-shadow: inset 0 -4px 0 var(--background-modifier-accent);
+   box-shadow: inset 0 -4px 0 var(--background-modifier-accent);
+   border: none !important;
+   background-color: var(--background-accent);
+}
+
+.theme-dark .keyboardShortcutsModal-3piNz7 {
+   background-color: var(--background-primary);
 }
