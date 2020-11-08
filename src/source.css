@@ -45,6 +45,14 @@
    --toast-border: transparent !important;
 }
 
+.lookFilled-1Gx00P.colorGrey-2DXtkV {
+   background-color: var(--background-accent);
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+   background-color: #262626;
+}
+
 .imageLoading-bpSr0M {
    background: var(--background-accent) !important;
    border-radius: 10px;
@@ -181,6 +189,10 @@
 
 .theme-dark .notches-1sAcEM.gray-3_LNYR {
    background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23141414'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
+}
+
+.theme-dark .notches-1sAcEM.black-1D3qCv {
+   background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23090909'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
 }
 
 .theme-dark .progress-1IcQ3A {
