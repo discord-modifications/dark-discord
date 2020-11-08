@@ -594,3 +594,9 @@ html:not(#\20) .css-gvi9bl-control {
    background: var(--background-floating);
    box-shadow: var(--elevation-high);
 }
+
+.theme-dark .modal-yWgWj- {
+   background-color: var(--background-primary);
+   -webkit-box-shadow: var(--elevation-high);
+   box-shadow: var(--elevation-high);
+}
