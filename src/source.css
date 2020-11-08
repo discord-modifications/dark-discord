@@ -638,3 +638,15 @@ html:not(#\20) .css-gvi9bl-control {
 .active-2HPddW, .hover-28QbSq:hover {
    background-color: var(--background-modifier-hover);
 }
+
+.pictureInPictureVideo-2iKsGg {
+   background: var(--background-floating);
+}
+
+.button-3HqqDX {
+   background-color: var(--background-accent);
+}
+
+.button-3HqqDX:hover {
+   background-color: #242424;
+}
