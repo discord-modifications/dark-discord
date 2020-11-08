@@ -567,7 +567,7 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 .colorable-1bkp8v.primaryDark-3mSFDl.active-1QRrIS, .colorable-1bkp8v.primaryDark-3mSFDl:hover {
-   background: var(--background-modifier-accent);
+   background: var(--background-secondary);
 }
 
 .theme-dark .uploadModal-2ifh8j {
