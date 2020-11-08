@@ -726,3 +726,7 @@ html:not(#\20) .css-gvi9bl-control {
 .tierMarkerAccomplished-2MiXeg.tierMarker-5HkGJ_ {
    background: rgb(255, 115, 250) !important;
 }
+
+.theme-dark .divider-23swzi {
+   background-color: var(--background-modifier-accent);
+}
