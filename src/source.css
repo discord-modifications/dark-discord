@@ -730,3 +730,23 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .divider-23swzi {
    background-color: var(--background-modifier-accent);
 }
+
+.streamPreview-3YL8OQ {
+   background: var(--background-secondary);
+}
+
+.cta-2DQ2ez {
+   background-color: var(--background-accent);
+}
+
+.cta-2DQ2ez:hover {
+   background-color: #242424;
+}
+
+.emptyPreview-2kuSNe {
+   background: var(--background-tertiary);
+}
+
+.videoWrapper-2v09vt {
+   background-color: var(--background-tertiary);
+}
