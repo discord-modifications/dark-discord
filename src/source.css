@@ -488,11 +488,6 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-secondary);
 }
 
-.theme-dark .elevationBorderHigh-2WYJ09 {
-   -webkit-box-shadow: var(--elevation-high);
-   box-shadow: var(--elevation-high);
-}
-
 .theme-dark .option-96V44q.selected-rZcOL- {
    background-color: var(--background-modifier-active);
 }
@@ -605,11 +600,6 @@ html:not(#\20) .css-gvi9bl-control {
 
 .theme-dark .addGamePopout-2RY8Ju {
    background-color: var(--background-secondary);
-}
-
-.theme-dark .elevationBorderHigh-2WYJ09 {
-   -webkit-box-shadow: var(--elevation-high);
-   box-shadow: var(--elevation-high);
 }
 
 .theme-dark .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa {
@@ -749,4 +739,13 @@ html:not(#\20) .css-gvi9bl-control {
 
 .videoWrapper-2v09vt {
    background-color: var(--background-tertiary);
+}
+
+.theme-dark .popoutList-T9CKZQ {
+   background: var(--background-secondary);
+}
+
+.theme-dark .elevationBorderHigh-2WYJ09 {
+   -webkit-box-shadow: var(--elevation-high);
+   box-shadow: var(--elevation-high);
 }
