@@ -375,7 +375,8 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 .slateBlockquoteContainer-u5zDDJ .blockquoteDivider-2hH8H6 {
-   background-color: #505050;
+   background-color: var(--background-accent);
+   filter: brightness(1.1);
 }
 
 .theme-light .layer-3QrUeG:first-of-type::before {
