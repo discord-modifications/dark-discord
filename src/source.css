@@ -50,7 +50,7 @@
 }
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
-   background-color: #262626;
+   background-color: var(--background-accent-alt);
 }
 
 .imageLoading-bpSr0M {
@@ -160,7 +160,7 @@
 }
 
 .lookFilled-1Gx00P.button-38aScr.colorPrimary-3b3xI6:active:not(:disabled), .lookFilled-1Gx00P.button-38aScr.colorPrimary-3b3xI6:hover:not(:disabled) {
-   background-color: #262626 !important;
+   background-color: var(--background-accent-alt) !important;
 }
 
 .theme-dark .sectionAccountCredit-1uNhnJ, .theme-dark .subscriptionDetails-1dUmjl {
@@ -638,7 +638,7 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 .button-3HqqDX:hover {
-   background-color: #242424;
+   background-color: var(--background-accent-alt);
 }
 
 .lookGhost-2Fn_0-.colorGrey-2DXtkV {
@@ -656,6 +656,7 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .changeDetails-bk98pu {
    background-color: var(--background-modifier-hover);
 }
+
 .theme-dark .divider-1pnAR2 {
    background-color: var(--background-modifier-accent);
 }
@@ -730,7 +731,7 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 .cta-2DQ2ez:hover {
-   background-color: #242424;
+   background-color: var(--background-accent-alt);
 }
 
 .emptyPreview-2kuSNe {
