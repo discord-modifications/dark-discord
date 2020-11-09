@@ -25,7 +25,7 @@
    --scrollbar-auto-thumb: var(--background-accent) !important;
    --scrollbar-auto-track: rgba(0, 0, 0, 0.1) !important;
    --scrollbar-auto-scrollbar-color-thumb: var(--background-accent) !important;
-   --scrollbar-auto-scrollbar-color-track: #2f3136 !important;
+   --scrollbar-auto-scrollbar-color-track: rgba(0, 0, 0, 0.1) !important;
    --channeltextarea-background: #202020 !important;
    --activity-card-background: var(--background-tertiary) !important;
    --deprecated-card-bg: var(--background-secondary) !important;
