@@ -35,9 +35,6 @@
    --deprecated-quickswitcher-input-placeholder: var(--interactive-muted) !important;
    --deprecated-text-input-bg: rgba(0, 0, 0, 0.1) !important;
    --deprecated-text-input-border: rgba(0, 0, 0, 0.3) !important;
-   --deprecated-text-input-border-hover: #040405 !important;
-   --deprecated-text-input-border-disabled: #202225 !important;
-   --deprecated-text-input-prefix: #dcddde !important;
    --toast-background: var(--background-secondary) !important;
    --toast-header: var(--background-tertiary) !important;
    --toast-contents: var(--background-tertiary) !important;
