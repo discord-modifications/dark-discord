@@ -756,3 +756,7 @@ html:not(#\20) .css-gvi9bl-control {
    border-bottom-color: var(--background-modifier-accent);
 }
 
+.theme-dark .emptyHintCard-2mUdMe {
+   background-color: var(--background-tertiary);
+   color: var(--text-muted);
+}
