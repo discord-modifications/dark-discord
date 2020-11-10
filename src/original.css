@@ -766,9 +766,15 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 .popoutLoadingForeground-2mZT61 {
-   background-image: linear-gradient(90deg,var(--background-accent-alt),var(--background-accent));
+   background-image: linear-gradient(90deg, var(--background-accent-alt), var(--background-accent));
 }
 
 .theme-dark .inviteRow-2L02ae:hover {
    background-color: var(--background-modifier-hover);
+}
+
+.theme-dark .popout-6p6fkZ {
+   background-color: var(--background-tertiary);
+   -webkit-box-shadow: var(--elevation-high);
+   box-shadow: var(--elevation-high);
 }
