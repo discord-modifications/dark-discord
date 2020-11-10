@@ -481,7 +481,7 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 .theme-dark .focused-2bY0OD {
-   background-color: var(--background-modifier-active);
+   background-color: var(--background-tertiary);
 }
 
 .theme-dark .container-3ayLPN {
@@ -750,3 +750,9 @@ html:not(#\20) .css-gvi9bl-control {
    -webkit-box-shadow: var(--elevation-high);
    box-shadow: var(--elevation-high);
 }
+
+.theme-dark .queryContainer-RKFJW- {
+   color: var(--text-muted);
+   border-bottom-color: var(--background-modifier-accent);
+}
+
