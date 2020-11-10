@@ -764,3 +764,7 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .placeholder-1kJjXI {
    background: var(--background-accent);
 }
+
+.popoutLoadingForeground-2mZT61 {
+   background-image: linear-gradient(90deg,var(--background-accent-alt),var(--background-accent));
+}
