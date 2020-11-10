@@ -778,3 +778,11 @@ html:not(#\20) .css-gvi9bl-control {
    -webkit-box-shadow: var(--elevation-high);
    box-shadow: var(--elevation-high);
 }
+
+.theme-dark .searchResultChannelCategory-1l0lSn, .theme-dark .searchResultChannelIcon-1DnTme {
+   color: var(--text-muted);
+}
+
+.theme-dark .option-96V44q .answer-1n6g43, .theme-dark .option-96V44q .nonText-3CRkO0, .theme-dark .option-96V44q strong {
+   color: var(--text-normal);
+}
