@@ -760,3 +760,7 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-tertiary);
    color: var(--text-muted);
 }
+
+.theme-dark .placeholder-1kJjXI {
+   background: var(--background-accent);
+}
