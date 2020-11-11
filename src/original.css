@@ -790,3 +790,12 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .streamPreview-2-WUWT {
    background-color: var(--background-tertiary);
 }
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV {
+   background-color: var(--background-accent);
+}
+
+.theme-dark .invite-18yqGF {
+   background: var(--background-modifier-hover);
+   border-color: var(--background-modifier-accent);
+}
