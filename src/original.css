@@ -807,3 +807,7 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .previewContainer-12UlHl {
    background-color: var(--background-floating);
 }
+
+.theme-dark .memberListItem-2ZX2pl:not(.popoutDisabled-xucru2):hover {
+   background-color: var(--background-modifier-hover);
+}
