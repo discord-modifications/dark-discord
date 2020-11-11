@@ -392,8 +392,8 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 .bd-toast {
-   background: var(--background-floating);
-   box-shadow: var(--elevation-high);
+   background: var(--background-floating) !important;
+   box-shadow: var(--elevation-high) !important;
 }
 
 .flowerStar-1GeTsn path {
