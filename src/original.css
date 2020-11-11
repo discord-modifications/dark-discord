@@ -786,3 +786,7 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .option-96V44q .answer-1n6g43, .theme-dark .option-96V44q .nonText-3CRkO0, .theme-dark .option-96V44q strong {
    color: var(--text-normal);
 }
+
+.theme-dark .streamPreview-2-WUWT {
+   background-color: var(--background-tertiary);
+}
