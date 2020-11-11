@@ -799,3 +799,11 @@ html:not(#\20) .css-gvi9bl-control {
    background: var(--background-modifier-hover);
    border-color: var(--background-modifier-accent);
 }
+
+.theme-dark .previewHover-1tGzfF {
+   background: var(--background-modifier-hover);
+}
+
+.theme-dark .previewContainer-12UlHl {
+   background-color: var(--background-floating);
+}
