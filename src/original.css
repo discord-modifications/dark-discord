@@ -549,3 +549,7 @@ html:not(#\20) .css-gvi9bl-control {
 .CodeMirror-vscrollbar::-webkit-scrollbar-thumb, .CodeMirror-hscrollbar::-webkit-scrollbar-thumb {
    background-color: var(--scrollbar-thin-thumb) !important;
 }
+
+.result-3w1ZcL[style*="background-color: rgb(24, 25, 28)"] {
+   background: unset !important;
+}
