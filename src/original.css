@@ -534,7 +534,7 @@ html:not(#\20) .css-gvi9bl-control {
    border-color: var(--background-floating);
 }
 
-.tierMarkerAccomplished-2MiXeg, .tierMarkerInProgress-24LMzJ, .container-3auIfb:not([style*="rgb(67"]) {
+.tierMarkerAccomplished-2MiXeg, .tierMarkerInProgress-24LMzJ {
    background: var(--background-accent) !important;
 }
 
