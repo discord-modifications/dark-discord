@@ -503,10 +503,6 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-modifier-accent);
 }
 
-.toolbar-2bjZV7, .theme-dark .previewContainer-12UlHl, .tile-2naSqK, .theme-dark .applicationStreamingPreviewWrapper-8QqvVY {
-   background-color: var(--background-floating);
-}
-
 .active-2HPddW, .hover-28QbSq:hover, .theme-dark .changeDetails-bk98pu, .theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN, .theme-dark .inviteRow-2L02ae:hover, .theme-dark .memberListItem-2ZX2pl:not(.popoutDisabled-xucru2):hover {
    background-color: var(--background-modifier-hover);
 }
@@ -546,10 +542,20 @@ html:not(#\20) .css-gvi9bl-control {
    box-shadow: var(--elevation-high);
 }
 
-.theme-dark .focused-2bY0OD, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .theme-dark .tierHeaderLocked-1a2opw, .videoWrapper-2v09vt, .theme-dark .streamPreview-2-WUWT, .theme-dark .container-2x5lvQ .header-2C89wJ, .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4 {
-   background-color: var(--background-tertiary);
-}
-
 .theme-dark .container-3ayLPN, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .addGamePopout-2RY8Ju, .theme-dark .tierBody-x9kBBp, .theme-dark .tierBody-16Chc9, .theme-dark .perk-2WeBWW, .theme-dark .container-2x5lvQ section, .theme-dark .container-VSDcQc .sectionTag-pXyto9 {
    background-color: var(--background-secondary);
+}
+
+.theme-dark .tile-2OwFgW {
+   background-color: var(--background-tertiary);
+   -webkit-box-shadow: none;
+   box-shadow: none;
+}
+
+.toolbar-2bjZV7, .theme-dark .previewContainer-12UlHl, .tile-2naSqK, .theme-dark .applicationStreamingPreviewWrapper-8QqvVY, .theme-dark .tile-2OwFgW:hover {
+   background-color: var(--background-floating);
+}
+
+.theme-dark .focused-2bY0OD, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .theme-dark .tierHeaderLocked-1a2opw, .videoWrapper-2v09vt, .theme-dark .streamPreview-2-WUWT, .theme-dark .container-2x5lvQ .header-2C89wJ, .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4, .theme-dark .invalidPoop-pnUbq7 {
+   background-color: var(--background-tertiary);
 }
