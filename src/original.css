@@ -559,3 +559,8 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .focused-2bY0OD, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .theme-dark .tierHeaderLocked-1a2opw, .videoWrapper-2v09vt, .theme-dark .streamPreview-2-WUWT, .theme-dark .container-2x5lvQ .header-2C89wJ, .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4, .theme-dark .invalidPoop-pnUbq7 {
    background-color: var(--background-tertiary);
 }
+
+.theme-dark .gameNameInput-385LoS:focus, .theme-dark .gameNameInput-385LoS:hover {
+   border-color: var(--deprecated-text-input-border);
+   background-color: var(--deprecated-text-input-bg);
+}
