@@ -440,10 +440,6 @@ html:not(#\20) .css-gvi9bl-control {
    color: var(--text-muted);
 }
 
-.theme-dark .placeholder-1kJjXI {
-   background: var(--background-accent);
-}
-
 .theme-dark .resolvingBackground-351jK_, .popoutLoadingForeground-2mZT61 {
    background-image: linear-gradient(90deg, var(--background-accent-alt), var(--background-accent));
 }
@@ -563,4 +559,12 @@ html:not(#\20) .css-gvi9bl-control {
 
 .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7 {
    background-color: var(--background-accent);
+}
+
+.participantsButton-KYW-IW:hover {
+   background: var(--background-accent-alt);
+}
+
+.theme-dark .placeholder-1kJjXI, .participantsButton-KYW-IW {
+   background: var(--background-accent);
 }
