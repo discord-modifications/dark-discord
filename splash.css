@@ -7,15 +7,10 @@
 }
 
 .progress .progress-bar .complete {
-   background-color: white;
+   background-color: #fff;
 }
 
-#splash .splash-inner-dl .dl-select-frame .Select-control {
-   background: #141414;
-   border-color: #191919;
-}
-
-#splash .splash-inner-dl .dl-select-frame .Select-menu-outer {
+#splash .splash-inner-dl .dl-select-frame .Select-control, #splash .splash-inner-dl .dl-select-frame .Select-menu-outer {
    background: #141414;
    border-color: #191919;
 }
