@@ -388,10 +388,6 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-accent) !important;
 }
 
-.participantsButton-KYW-IW:hover {
-   background: var(--background-accent-alt);
-}
-
 .pictureInPictureVideo-2iKsGg {
    background: var(--background-floating);
 }
@@ -488,10 +484,6 @@ html:not(#\20) .css-gvi9bl-control {
    background: none !important;
 }
 
-.theme-dark .placeholder-1kJjXI, .participantsButton-KYW-IW {
-   background: var(--background-accent);
-}
-
 .theme-dark .popout-6p6fkZ {
    -webkit-box-shadow: var(--elevation-high);
    background-color: var(--background-tertiary);
@@ -570,6 +562,14 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-accent-alt);
 }
 
-.theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9 {
+.participantsButton-KYW-IW:hover, .icon-TYbVk4:hover {
+   background: var(--background-accent-alt);
+}
+
+.theme-dark .placeholder-1kJjXI, .participantsButton-KYW-IW, .theme-dark .iconWrapper-3LVgIo {
+   background: var(--background-accent);
+}
+
+.theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48 {
    background-color: var(--background-accent);
 }
