@@ -11,4 +11,4 @@ An actual dark mode for discord.
 <img src="https://media.wtf/46289749"/>
 
 # Support 
-- eternal#1000
+- eternal#0404
