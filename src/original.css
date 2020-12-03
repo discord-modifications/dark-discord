@@ -576,3 +576,19 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .searchOption-zQ-1l6 .filter-3Y_im-, .theme-dark .option-96V44q .filter-3Y_im-, .theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU, .theme-dark .option-96V44q .answer-1n6g43, .theme-dark .option-96V44q .nonText-3CRkO0, .theme-dark .option-96V44q strong, .regionSelectName-2-2FWh {
    color: var(--text-normal);
 }
+
+.bd-toast.toast-success {
+   background-color: #43b581 !important;
+}
+
+.bd-toast.toast-danger, .bd-toast.toast-error {
+   background-color: #f04747 !important;
+}
+
+.bd-toast.toast-warning, .bd-toast.toast-warn {
+   background-color: #FFA600 !important;
+}
+
+.bd-toast.toast-info {
+   background-color: #4a90e2 !important;
+}
