@@ -44,7 +44,7 @@
    --toast-header: var(--background-tertiary) !important;
 }
 
-.css-3vaxre-menu {
+.css-3vaxre-menu, .css-dwar6a-menu {
    background-color: var(--background-secondary) !important;
    border: none !important;
    box-shadow: var(--elevation-high) !important;
