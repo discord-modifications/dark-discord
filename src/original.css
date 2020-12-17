@@ -420,10 +420,6 @@ html:not(#\20) .css-gvi9bl-control {
    border-color: var(--background-floating);
 }
 
-.theme-dark .container-3ayLPN, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .addGamePopout-2RY8Ju, .theme-dark .tierBody-x9kBBp, .theme-dark .tierBody-16Chc9, .theme-dark .perk-2WeBWW, .theme-dark .container-2x5lvQ section, .theme-dark .container-VSDcQc .sectionTag-pXyto9 {
-   background-color: var(--background-secondary);
-}
-
 .theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw {
    border-top: 1px solid var(--background-modifier-accent);
 }
@@ -552,10 +548,6 @@ html:not(#\20) .css-gvi9bl-control {
    background: var(--background-accent);
 }
 
-.theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48 {
-   background-color: var(--background-accent);
-}
-
 .theme-dark .quickSelectPopout-X1hvgV, .colorable-1bkp8v.primaryDark-3mSFDl.active-1QRrIS, .colorable-1bkp8v.primaryDark-3mSFDl:hover, .streamPreview-3YL8OQ, .theme-dark .popoutList-T9CKZQ {
    background: var(--background-secondary);
 }
@@ -591,4 +583,12 @@ html:not(#\20) .css-gvi9bl-control {
 
 .bd-toast.toast-info {
    background-color: #4a90e2 !important;
+}
+
+.theme-dark .container-3ayLPN, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .addGamePopout-2RY8Ju, .theme-dark .tierBody-x9kBBp, .theme-dark .tierBody-16Chc9, .theme-dark .perk-2WeBWW, .theme-dark .container-2x5lvQ section, .theme-dark .container-VSDcQc .sectionTag-pXyto9, .categoryHeader-O1zU94 {
+   background-color: var(--background-secondary);
+}
+
+.theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8 {
+   background-color: var(--background-accent);
 }
