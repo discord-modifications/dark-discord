@@ -532,7 +532,7 @@ html:not(#\20) .css-gvi9bl-control {
    color: var(--text-muted);
 }
 
-.button-3HqqDX:hover, .cta-2DQ2ez:hover, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9:hover {
+.button-3HqqDX:hover, .cta-2DQ2ez:hover, .cta-3gK0Pu:hover, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9:hover {
    background-color: var(--background-accent-alt);
 }
 
@@ -585,7 +585,7 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-secondary);
 }
 
-.theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8 {
+.theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .cta-3gK0Pu, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8 {
    background-color: var(--background-accent);
 }
 
