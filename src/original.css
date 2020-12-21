@@ -532,10 +532,6 @@ html:not(#\20) .css-gvi9bl-control {
    color: var(--text-muted);
 }
 
-.button-3HqqDX:hover, .cta-2DQ2ez:hover, .cta-3gK0Pu:hover, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9:hover {
-   background-color: var(--background-accent-alt);
-}
-
 .participantsButton-KYW-IW:hover, .icon-TYbVk4:hover {
    background: var(--background-accent-alt);
 }
@@ -557,8 +553,8 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 .regionSelectModal-12e-57 .regionSelectModalOption-2DSIZ3 {
-   border: 2px solid var(--background-secondary);
    background-color: var(--background-secondary);
+   border: 2px solid var(--background-secondary);
 }
 
 .theme-dark .searchOption-zQ-1l6 .filter-3Y_im-, .theme-dark .option-96V44q .filter-3Y_im-, .theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU, .theme-dark .option-96V44q .answer-1n6g43, .theme-dark .option-96V44q .nonText-3CRkO0, .theme-dark .option-96V44q strong, .regionSelectName-2-2FWh {
@@ -585,14 +581,18 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-secondary);
 }
 
-.theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .cta-3gK0Pu, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8 {
-   background-color: var(--background-accent);
-}
-
 .theme-dark .searchOption-zQ-1l6 .answer-1n6g43, .theme-dark .option-96V44q.user-O3Czj0 .displayUsername-Qekxml, .lookGhost-2Fn_0-.colorGrey-2DXtkV, .theme-dark .searchResultChannelCategory-1l0lSn, .theme-dark .searchResultChannelIcon-1DnTme, .theme-dark .tierLock-3CSxSX {
    color: var(--text-muted);
 }
 
 .theme-dark .overridePlaceholder-14_rPI {
    border: 1px dashed var(--background-accent);
+}
+
+.button-3HqqDX:hover, .cta-2DQ2ez:hover, .cta-3gK0Pu:hover, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9:hover, .buttonColor-2Nx30V:hover {
+   background-color: var(--background-accent-alt);
+}
+
+.theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .cta-3gK0Pu, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8, .buttonColor-2Nx30V {
+   background-color: var(--background-accent);
 }
