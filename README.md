@@ -9,4 +9,4 @@ An actual dark mode for discord.
 <img src="https://media.wtf/54068831"/>
 
 # Support 
-- eternal#0404
+- eternal#1000
