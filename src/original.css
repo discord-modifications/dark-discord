@@ -397,10 +397,6 @@ html:not(#\20) .css-gvi9bl-control {
    border-color: var(--background-modifier-accent);
 }
 
-.theme-dark .background-3xPPFc {
-   color: var(--background-accent);
-}
-
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__current-month, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__week:last-of-type .react-datepicker__day {
    border-bottom-color: var(--background-modifier-accent);
 }
@@ -592,6 +588,14 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-accent-alt);
 }
 
-.theme-dark .watchButton-2SbJEo, .lookFilled-1Gx00P.colorGrey-2DXtkV:active, .theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .cta-3gK0Pu, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8, .buttonColor-2Nx30V {
+.lookFilled-1Gx00P.colorGrey-2DXtkV:active, .theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .cta-3gK0Pu, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8, .buttonColor-2Nx30V {
    background-color: var(--background-accent);
+}
+
+.theme-dark .background-3xPPFc {
+   color: var(--background-accent);
+}
+
+.theme-dark .watchButton-2SbJEo {
+   border-color: var(--background-accent);
 }
