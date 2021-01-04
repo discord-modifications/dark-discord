@@ -441,10 +441,6 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-modifier-accent);
 }
 
-.theme-dark .headerExpanded-CUEwZ5 {
-   background-color: var(--background-modifier-selected);
-}
-
 .theme-dark .invite-18yqGF {
    background: var(--background-modifier-hover);
    border-color: var(--background-modifier-accent);
@@ -480,10 +476,6 @@ html:not(#\20) .css-gvi9bl-control {
 
 .theme-dark .resolvingBackground-351jK_, .popoutLoadingForeground-2mZT61 {
    background-image: linear-gradient(90deg, var(--background-accent-alt), var(--background-accent));
-}
-
-.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover, .theme-dark .keyboardShortcutsModal-3piNz7, .theme-dark .perksModal-fSYqOq, .theme-dark .tierMarkerBackground-3q29am {
-   background-color: var(--background-primary);
 }
 
 .theme-dark .tierHeaderLocked-1s2JJz, .theme-dark .emptyHintCard-2mUdMe {
@@ -535,14 +527,6 @@ html:not(#\20) .css-gvi9bl-control {
    background: var(--background-accent);
 }
 
-.theme-dark .quickSelectPopout-X1hvgV, .colorable-1bkp8v.primaryDark-3mSFDl.active-1QRrIS, .colorable-1bkp8v.primaryDark-3mSFDl:hover, .streamPreview-3YL8OQ, .theme-dark .popoutList-T9CKZQ {
-   background: var(--background-secondary);
-}
-
-.theme-dark .quickSelectPopoutOption-opKBx9:hover, .active-2HPddW, .hover-28QbSq:hover, .theme-dark .changeDetails-bk98pu, .theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN, .theme-dark .inviteRow-2L02ae:hover, .theme-dark .memberListItem-2ZX2pl:not(.popoutDisabled-xucru2):hover {
-   background-color: var(--background-modifier-hover);
-}
-
 .regionSelectModal-12e-57 {
    background: var(--background-primary) !important;
 }
@@ -576,10 +560,6 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-secondary);
 }
 
-.theme-dark .searchOption-zQ-1l6 .answer-1n6g43, .theme-dark .option-96V44q.user-O3Czj0 .displayUsername-Qekxml, .lookGhost-2Fn_0-.colorGrey-2DXtkV, .theme-dark .searchResultChannelCategory-1l0lSn, .theme-dark .searchResultChannelIcon-1DnTme, .theme-dark .tierLock-3CSxSX {
-   color: var(--text-muted);
-}
-
 .theme-dark .overridePlaceholder-14_rPI {
    border: 1px dashed var(--background-accent);
 }
@@ -598,4 +578,29 @@ html:not(#\20) .css-gvi9bl-control {
 
 .theme-dark .watchButton-2SbJEo {
    border-color: var(--background-accent);
+}
+
+.theme-dark .reactorDefault-1IUqMZ {
+   -webkit-box-shadow: inset 0 -1px 0 var(--background-modifier-accent);
+   box-shadow: inset 0 -1px 0 var(--background-modifier-accent);
+}
+
+.theme-dark .headerExpanded-CUEwZ5, .theme-dark .reactionSelected-1pqISm {
+   background-color: var(--background-modifier-selected);
+}
+
+.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover, .theme-dark .keyboardShortcutsModal-3piNz7, .theme-dark .perksModal-fSYqOq, .theme-dark .tierMarkerBackground-3q29am, .theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
+   background-color: var(--background-primary);
+}
+
+.theme-dark .quickSelectPopout-X1hvgV, .colorable-1bkp8v.primaryDark-3mSFDl.active-1QRrIS, .colorable-1bkp8v.primaryDark-3mSFDl:hover, .streamPreview-3YL8OQ, .theme-dark .popoutList-T9CKZQ, .theme-dark .scroller-1-nKid {
+   background: var(--background-secondary);
+}
+
+.theme-dark .quickSelectPopoutOption-opKBx9:hover, .active-2HPddW, .hover-28QbSq:hover, .theme-dark .changeDetails-bk98pu, .theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN, .theme-dark .inviteRow-2L02ae:hover, .theme-dark .memberListItem-2ZX2pl:not(.popoutDisabled-xucru2):hover, .theme-dark .reactionDefault-GBA58K:hover {
+   background-color: var(--background-modifier-hover);
+}
+
+.theme-dark .searchOption-zQ-1l6 .answer-1n6g43, .theme-dark .option-96V44q.user-O3Czj0 .displayUsername-Qekxml, .lookGhost-2Fn_0-.colorGrey-2DXtkV, .theme-dark .searchResultChannelCategory-1l0lSn, .theme-dark .searchResultChannelIcon-1DnTme, .theme-dark .tierLock-3CSxSX, .theme-dark .discriminator-byOsvi {
+   color: var(--text-muted);
 }
