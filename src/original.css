@@ -604,3 +604,7 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .searchOption-zQ-1l6 .answer-1n6g43, .theme-dark .option-96V44q.user-O3Czj0 .displayUsername-Qekxml, .lookGhost-2Fn_0-.colorGrey-2DXtkV, .theme-dark .searchResultChannelCategory-1l0lSn, .theme-dark .searchResultChannelIcon-1DnTme, .theme-dark .tierLock-3CSxSX, .theme-dark .discriminator-byOsvi {
    color: var(--text-muted);
 }
+
+.theme-dark #MemberCount {
+   background: transparent !important;
+}
