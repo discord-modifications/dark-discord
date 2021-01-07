@@ -606,5 +606,5 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 .theme-dark #MemberCount {
-   background: transparent !important;
+   background: var(--background-secondary) !important;
 }
