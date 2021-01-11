@@ -562,10 +562,6 @@ html:not(#\20) .css-gvi9bl-control {
    background: var(--background-secondary);
 }
 
-.theme-dark .quickSelectPopoutOption-opKBx9:hover, .active-2HPddW, .hover-28QbSq:hover, .theme-dark .changeDetails-bk98pu, .theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN, .theme-dark .inviteRow-2L02ae:hover, .theme-dark .memberListItem-2ZX2pl:not(.popoutDisabled-xucru2):hover, .theme-dark .reactionDefault-GBA58K:hover, .pageButton-2ruNwd:hover {
-   background-color: var(--background-modifier-hover);
-}
-
 .theme-dark .reactorDefault-1IUqMZ {
    -webkit-box-shadow: inset 0 -1px 0 var(--background-modifier-accent);
    box-shadow: inset 0 -1px 0 var(--background-modifier-accent);
@@ -630,4 +626,16 @@ html:not(#\20) .css-gvi9bl-control {
 
 .theme-dark .searchOption-zQ-1l6 .filter-3Y_im-, .theme-dark .option-96V44q .filter-3Y_im-, .theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU, .theme-dark .option-96V44q .answer-1n6g43, .theme-dark .option-96V44q .nonText-3CRkO0, .theme-dark .option-96V44q strong, .regionSelectName-2-2FWh, .theme-dark .notDetected-33MY4s .gameName-1RiWHm, .theme-dark .content-s2SEQO ol, .theme-dark .content-s2SEQO p, .theme-dark .content-s2SEQO ul li, .theme-dark .rowTitle-1KYtY7, .theme-dark .userHook-3AdCBF, .theme-dark .auditLog-3jNbM6 strong {
    color: var(--text-normal);
+}
+
+.theme-dark .guildName-3WI6ml, .theme-dark .override-2YgiXd, .theme-dark .overrideHighlight-YPcBxt {
+   color: var(--channels-default);
+}
+
+.navButtonActive-1MkytQ {
+   background-color: var(--background-modifier-active) !important;
+}
+
+.theme-dark .quickSelectPopoutOption-opKBx9:hover, .active-2HPddW, .hover-28QbSq:hover, .theme-dark .changeDetails-bk98pu, .theme-dark .headerClickable-2IVFo9, .theme-dark .headerDefault-1wrJcN, .theme-dark .inviteRow-2L02ae:hover, .theme-dark .memberListItem-2ZX2pl:not(.popoutDisabled-xucru2):hover, .theme-dark .reactionDefault-GBA58K:hover, .pageButton-2ruNwd:hover, .navButton-2gQCx-:hover, .emojiItem-14v6tW.emojiItemSelected-1aLkfV {
+   background-color: var(--background-modifier-hover);
 }
