@@ -407,7 +407,7 @@ html:not(#\20) .css-gvi9bl-control {
    border: 1px solid transparent;
 }
 
-.powercord-quickcss-editor-settings .close {
+div[class*="-quickcss-editor-settings"] .close {
    border: 2px var(--background-accent) solid;
 }
 
@@ -540,7 +540,7 @@ html:not(#\20) .css-gvi9bl-control {
    border: 1px dashed var(--background-accent);
 }
 
-.theme-dark .placeholder-1kJjXI, .participantsButton-KYW-IW, .theme-dark .iconWrapper-3LVgIo, .powercord-quickcss-editor-settings .close:hover {
+.theme-dark .placeholder-1kJjXI, .participantsButton-KYW-IW, .theme-dark .iconWrapper-3LVgIo, div[class*="-quickcss-editor-settings"] .close:hover {
    background: var(--background-accent);
 }
 
