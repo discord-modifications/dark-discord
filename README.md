@@ -7,6 +7,3 @@ An actual dark mode for discord.
 
 # Preview
 <img src="https://media.wtf/54068831"/>
-
-# Support 
-- eternal#1000
