@@ -1,4 +1,14 @@
-@import url("https://snappercord.github.io/Dark-Discord/source.css");
+/**
+ * @name Dark Discord
+ * @description Discord but dark
+ * @author Snapperito
+ * @version 1.2.1
+ * @authorId 431883840483491850
+ * @invite Jx3TjNS
+ * @website https://github.com/Snappercord/Dark-Discord/
+ * @source https://snappercord.github.io/Dark-Discord/src/source.css
+ */
+@import url("https://snappercord.github.io/Dark-Discord/src/source.css");
 
 .theme-dark,
 .theme-light,
@@ -8,20 +18,19 @@
     --background-secondary-alt: #292929;
     --background-tertiary: #0c0c0c;
     --background-accent: #242424;
-    --background-floating: black; 
-    --background-modifier-hover: rgba(255,255,255,0.01);
-    --background-modifier-active: rgba(255,255,255,0.03);
-    --background-modifier-selected: rgba(255,255,255,0.04);
-    --background-modifier-accent: hsla(0,0%,100%,0.06);
+    --background-floating: #000000;
+    --background-modifier-hover: rgba(255, 255, 255, 0.01);
+    --background-modifier-active: rgba(255, 255, 255, 0.03);
+    --background-modifier-selected: rgba(255, 255, 255, 0.04);
+    --background-modifier-accent: hsla(0, 0%, 100%, 0.06);
     --channeltextarea-background: var(--background-accent);
     --deprecated-card-bg: rgba(0, 0, 0, 0.2);
-    --deprecated-card-editable-bg: rgba(0,0,0,0.1);
+    --deprecated-card-editable-bg: rgba(0, 0, 0, 0.1);
     --deprecated-text-input-border-disabled: var(--background-tertiary);
     --activity-card-background: var(--background-primary);
     --channels-default: #9f9f9f;
-    --background-message-hover: #00000030; /*change this to change the message hover color*/
     --text-muted: #b6b6b6;
-    --text-normal: #fbfbfb; 
+    --text-normal: #fbfbfb;
     --interactive-normal: #c8c8c8;
     --interactive-hover: #dcddde;
     --interactive-active: #fff;
