@@ -27,7 +27,7 @@ git clone https://github.com/snappercord/dark-discord
 
 [**BetterDiscord**](https://betterdiscord.net/home/) : <br/> 
 
-[Direct Download](https://betterdiscord.net/ghdl?id=3476) | [Source](https://raw.githubusercontent.com/snappercord/Dark-Discord/BetterDiscord/darkdiscord.theme.css)
+[Direct Download](https://betterdiscord.net/ghdl?id=3477) | [Source](https://raw.githubusercontent.com/snappercord/Dark-Discord/master/BetterDiscord/darkdiscord.theme.css)
 
 **Web** :
 * Install **Stylus** | [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) | [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
