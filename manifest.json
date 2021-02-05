@@ -1,9 +1,11 @@
 {
+    "icon": "Assets/icon.svg",
     "name": "Dark Discord",
     "description": "Discord but dark.",
     "version": "1.2.1",
     "author": "Snapperito",
     "theme": "source.css",
+    "splashTheme": "splash.css",
     "consent": "false",
     "license": "MIT"
 }
