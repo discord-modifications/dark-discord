@@ -1,4 +1,4 @@
-![Banner](https://github.com/snappercord/Dark-Discord/blob/master/Assets/Banner.png)
+![Banner](https://github.com/snappercord/Dark-Discord/blob/master/sssets/banner.png)
   <p align="center">
     <a href="https://discord.gg/pmpVeAEsxz"><img align="center" alt="Discord" src="https://img.shields.io/discord/786750604419792926?color=745EC5&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img align="center" alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Snappercord/Dark-Discord?color=745EC5&style=for-the-badge&logo=github">
@@ -14,7 +14,7 @@
 
 A simple theme that aims to keep the look and feel of native discord... but darker.
 
-![Preview](https://github.com/snappercord/Dark-Discord/blob/master/Assets/Screenshot.png)
+![Preview](https://github.com/snappercord/Dark-Discord/blob/master/assets/screenshot.png)
 
 ---
 
