@@ -86,16 +86,8 @@
    border-radius: 10px;
 }
 
-.lookFilled-1Gx00P.button-38aScr.colorPrimary-3b3xI6:active:not(:disabled), .lookFilled-1Gx00P.button-38aScr.colorPrimary-3b3xI6:hover:not(:disabled) {
-   background-color: var(--background-accent-alt) !important;
-}
-
-.lookFilled-1Gx00P.colorGrey-2DXtkV, .theme-dark .progress-1IcQ3A, .option-n0icdO, .theme-dark .closeButton-1tv5uR:hover, .blockquoteDivider-2hH8H6 {
+.theme-dark .progress-1IcQ3A, .option-n0icdO, .theme-dark .closeButton-1tv5uR:hover, .blockquoteDivider-2hH8H6 {
    background-color: var(--background-accent);
-}
-
-.lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
-   background-color: var(--background-accent-alt);
 }
 
 .outer-1AjyKL.active-1xchHY, .outer-1AjyKL.interactive-3B9GmY:hover, .container-2VW0UT {
@@ -359,6 +351,10 @@ html:not(#\20) .css-gvi9bl-control {
    border-color: var(--deprecated-text-input-border);
 }
 
+.lookFilled-1Gx00P.button-38aScr.colorPrimary-3b3xI6:active:not(:disabled), .lookFilled-1Gx00P.button-38aScr.colorPrimary-3b3xI6:hover:not(:disabled), .lookFilled-1Gx00P.colorGrey-2DXtkV, .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+   background-color: var(--background-accent-alt) !important;
+}
+
 @keyframes flash {
    100%, 0% {
       border-color: #fff;
@@ -429,12 +425,8 @@ html:not(#\20) .css-gvi9bl-control {
    color: var(--text-muted) !important;
 }
 
-.lookFilled-1Gx00P.colorGrey-2DXtkV:active, .theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .cta-3gK0Pu, .lookFilled-1Gx00P.colorGrey-2DXtkV, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8, .buttonColor-2Nx30V, .theme-dark .defaultIndicator-3WqGFB, .theme-dark .installSize-1eXbBX, .theme-dark .defaultIndicator-G3c16x, .theme-dark .voiceSectionIconWrapper-FO7UEY, .theme-dark .multipleIconWrapper-DfGWrz {
+.theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .cta-3gK0Pu, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8, .buttonColor-2Nx30V, .theme-dark .defaultIndicator-3WqGFB, .theme-dark .installSize-1eXbBX, .theme-dark .defaultIndicator-G3c16x, .theme-dark .voiceSectionIconWrapper-FO7UEY, .theme-dark .multipleIconWrapper-DfGWrz {
    background-color: var(--background-accent);
-}
-
-.lookFilled-1Gx00P.colorGrey-2DXtkV:disabled, .progress-5tMCVk .progressBar-3zryPV {
-   background-color: var(--background-accent) !important;
 }
 
 .navButtonActive-1MkytQ {
@@ -721,4 +713,8 @@ div[class*="-quickcss-editor-settings"] .close {
 
 .defaultValue-3gC7yw .markValue-2DwdXI {
    color: #43b581 !important;
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV, .lookFilled-1Gx00P.colorGrey-2DXtkV:active, .lookFilled-1Gx00P.colorGrey-2DXtkV:disabled, .progress-5tMCVk .progressBar-3zryPV {
+   background-color: var(--background-accent) !important;
 }
