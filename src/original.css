@@ -715,6 +715,10 @@ div[class*="-quickcss-editor-settings"] .close {
    color: #43b581 !important;
 }
 
-.lookFilled-1Gx00P.colorGrey-2DXtkV, .lookFilled-1Gx00P.colorGrey-2DXtkV:active, .lookFilled-1Gx00P.colorGrey-2DXtkV:disabled, .progress-5tMCVk .progressBar-3zryPV {
+.scrollbar-3dvm_9::-webkit-scrollbar-thumb {
+   background-color: var(--scrollbar-thin-thumb);
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV, .lookFilled-1Gx00P.colorGrey-2DXtkV:active, .lookFilled-1Gx00P.colorGrey-2DXtkV:disabled, .progress-5tMCVk .progressBar-3zryPV, .liveQualityIndicator-3XCjEU {
    background-color: var(--background-accent) !important;
 }
