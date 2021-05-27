@@ -203,7 +203,7 @@
    color: var(--text-muted);
 }
 
-.theme-dark .markdown-11q6EU code, .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6, .theme-dark .paymentPane-3bwJ6A {
+.theme-dark .markdown-11q6EU code, .theme-dark .paymentPane-3bwJ6A {
    background-color: var(--background-secondary);
 }
 
@@ -711,10 +711,6 @@ html:not(#\20) .css-gvi9bl-control {
 
 .toolbar-2bjZV7, .theme-dark .previewContainer-12UlHl, .tile-2naSqK, .theme-dark .applicationStreamingPreviewWrapper-8QqvVY, .theme-dark .tile-2OwFgW:hover {
    background-color: var(--background-floating);
-}
-
-.newUserPopoutStyles-1lzZvB .activity-11LB_k, .newUserPopoutStyles-1lzZvB .body-3iLsc4, .newUserPopoutStyles-1lzZvB .footer-1fjuF6 {
-   background-color: var(--background-floating) !important;
 }
 
 .toolbar-2bjZV7:before {
