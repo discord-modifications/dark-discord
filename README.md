@@ -25,7 +25,7 @@ A simple theme that aims to keep the look and feel of native discord... but dark
 git clone https://github.com/snappercord/dark-discord
 ```
 
-[**BetterDiscord**](https://betterdiscord.net/home/) : <br/> 
+[**BetterDiscord**](https://betterdiscord.app/) : <br/> 
 
 [Direct Download](https://snapper.dev/download/?darkdiscord) | [Source](https://raw.githubusercontent.com/snappercord/Dark-Discord/master/BetterDiscord/darkdiscord.theme.css)
 
