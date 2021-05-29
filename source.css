@@ -8,7 +8,7 @@
     --background-secondary-alt: #292929;
     --background-tertiary: #0c0c0c;
     --background-accent: #242424;
-    --background-floating: black; 
+    --background-floating: #111111; 
     --background-modifier-hover: rgba(255,255,255,0.01);
     --background-modifier-active: rgba(255,255,255,0.03);
     --background-modifier-selected: rgba(255,255,255,0.04);
