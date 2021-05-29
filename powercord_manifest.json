@@ -1,7 +1,7 @@
 {
     "name": "Dark Discord",
     "description": "Discord but dark.",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "author": "Snapperito",
     "theme": "source.css",
     "consent": "false",
