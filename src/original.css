@@ -407,7 +407,7 @@ html:not(#\20) .css-gvi9bl-control {
    background: var(--background-primary);
 }
 
-.container-3XJ8ns {
+.container-3XJ8ns, .qualitySettingsContainer-1gOtRJ {
    border: 1px solid var(--background-tertiary);
 }
 
@@ -460,7 +460,7 @@ html:not(#\20) .css-gvi9bl-control {
    background: var(--background-floating);
 }
 
-.platform-win.theme-light .item-PXvHYJ:nth-of-type(16), html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(15) {
+.theme-light .item-PXvHYJ:nth-of-type(14) {
    animation: flash 1s ease infinite;
    background: #f04747 !important;
    border: 1px solid transparent;
