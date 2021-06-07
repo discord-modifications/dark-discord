@@ -13,6 +13,8 @@
    --background-secondary: #111 !important;
    --background-secondary-alt: #0e0e0e !important;
    --background-tertiary: #0c0c0c !important;
+   --bsi-offline-color: #292929 !important;
+   --bsi-invisible-color: #292929 !important;
    --channels-default: var(--text-muted) !important;
    --channeltextarea-background: #202020 !important;
    --deprecated-card-bg: var(--background-secondary) !important;
