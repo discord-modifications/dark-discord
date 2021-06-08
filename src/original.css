@@ -13,8 +13,8 @@
    --background-secondary: #111 !important;
    --background-secondary-alt: #0e0e0e !important;
    --background-tertiary: #0c0c0c !important;
-   --bsi-offline-color: #292929 !important;
    --bsi-invisible-color: #292929 !important;
+   --bsi-offline-color: #292929 !important;
    --channels-default: var(--text-muted) !important;
    --channeltextarea-background: #202020 !important;
    --deprecated-card-bg: var(--background-secondary) !important;
@@ -92,10 +92,6 @@
 .imageLoading-bpSr0M {
    background: var(--background-accent) !important;
    border-radius: 10px;
-}
-
-.theme-dark .progress-1IcQ3A, .option-n0icdO, .theme-dark .closeButton-1tv5uR:hover, .blockquoteDivider-2hH8H6 {
-   background-color: var(--background-accent);
 }
 
 .outer-1AjyKL.active-1xchHY, .outer-1AjyKL.interactive-3B9GmY:hover, .container-2VW0UT {
@@ -365,6 +361,10 @@ html:not(#\20) .css-gvi9bl-control {
 
 .css-o3gndj-placeholder, .autocompleteRowVertical-q1K4ky .selectable-3dP3y- .colorStandard-2KCXvj {
    color: var(--text-muted) !important;
+}
+
+.theme-dark .pill-2pQByF, .theme-dark .option-1B5ZV8, .theme-dark .progress-1IcQ3A, .option-n0icdO, .theme-dark .closeButton-1tv5uR:hover, .blockquoteDivider-2hH8H6 {
+   background-color: var(--background-accent);
 }
 
 @keyframes flash {
