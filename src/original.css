@@ -818,3 +818,7 @@ html:not(#\20) .css-gvi9bl-control {
 .container-3auIfb .slider-TkfMQL {
    display: none !important;
 }
+
+.bar-3urHkF {
+   background-color: var(--background-modifier-accent) !important;
+}
