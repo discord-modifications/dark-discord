@@ -549,7 +549,7 @@ html:not(#\20) .css-gvi9bl-control {
    box-shadow: var(--elevation-high);
 }
 
-.theme-dark .focused-2bY0OD, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .theme-dark .tierHeaderLocked-1a2opw, .videoWrapper-2v09vt, .theme-dark .streamPreview-2-WUWT, .theme-dark .container-2x5lvQ .header-2C89wJ, .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4, .theme-dark .invalidPoop-pnUbq7 {
+.theme-dark .focused-2bY0OD, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .theme-dark .tierHeaderLocked-3S508x, .videoWrapper-2v09vt, .theme-dark .streamPreview-2-WUWT, .theme-dark .container-2x5lvQ .header-2C89wJ, .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4, .theme-dark .invalidPoop-pnUbq7 {
    background-color: var(--background-tertiary);
 }
 
@@ -585,7 +585,7 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: rgba(255, 255, 255, .15) !important;
 }
 
-.theme-dark .input-3yHnCz, .theme-dark .container-3ayLPN, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .addGamePopout-2RY8Ju, .theme-dark .tierBody-x9kBBp, .theme-dark .tierBody-16Chc9, .theme-dark .perk-2WeBWW, .theme-dark .container-2x5lvQ section, .theme-dark .container-VSDcQc .sectionTag-pXyto9, .categoryHeader-O1zU94, .theme-dark .verificationBlock-1Chfpc:hover {
+.theme-dark .input-3yHnCz, .theme-dark .container-3ayLPN, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .addGamePopout-2RY8Ju, .theme-dark .tierBody-3aUxuc, .theme-dark .perk-2WeBWW, .theme-dark .container-2x5lvQ section, .theme-dark .container-VSDcQc .sectionTag-pXyto9, .categoryHeader-O1zU94, .theme-dark .verificationBlock-1Chfpc:hover {
    background-color: var(--background-secondary);
 }
 
@@ -679,7 +679,7 @@ html:not(#\20) .css-gvi9bl-control {
    box-shadow: none;
 }
 
-.theme-dark .tierHeaderLocked-1s2JJz, .theme-dark .emptyHintCard-2mUdMe {
+.theme-dark .tierHeaderLocked-3S508x, .theme-dark .emptyHintCard-2mUdMe {
    background-color: var(--background-tertiary);
    color: var(--text-muted);
 }
@@ -713,10 +713,6 @@ html:not(#\20) .css-gvi9bl-control {
 
 .tierMarkerAccomplished-2MiXeg.tierMarker-5HkGJ_ {
    background: #ff73fa !important;
-}
-
-.toolbar-2bjZV7, .theme-dark .previewContainer-12UlHl, .tile-2naSqK, .theme-dark .applicationStreamingPreviewWrapper-8QqvVY, .theme-dark .tile-2OwFgW:hover {
-   background-color: var(--background-floating);
 }
 
 .toolbar-2bjZV7:before {
@@ -821,4 +817,8 @@ html:not(#\20) .css-gvi9bl-control {
 
 .bar-3urHkF {
    background-color: var(--background-modifier-accent) !important;
+}
+
+.theme-dark .tierHeaderUnlocked-3lTDnP, .toolbar-2bjZV7, .theme-dark .previewContainer-12UlHl, .tile-2naSqK, .theme-dark .applicationStreamingPreviewWrapper-8QqvVY, .theme-dark .tile-2OwFgW:hover {
+   background-color: var(--background-floating);
 }
