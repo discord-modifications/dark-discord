@@ -722,10 +722,6 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--scrollbar-thin-thumb);
 }
 
-.lookFilled-1Gx00P.colorGrey-2DXtkV, .lookFilled-1Gx00P.colorGrey-2DXtkV:active, .lookFilled-1Gx00P.colorGrey-2DXtkV:disabled, .progress-5tMCVk .progressBar-3zryPV, .liveQualityIndicator-3XCjEU {
-   background-color: var(--background-accent) !important;
-}
-
 .input-rwLH4i {
    -webkit-appearance: none !important;
    appearance: none !important;
@@ -821,4 +817,12 @@ html:not(#\20) .css-gvi9bl-control {
 .theme-dark .tierHeaderLocked-3S508x, .theme-dark .emptyHintCard-2mUdMe, .theme-dark .tierHeaderLocked-1s2JJz {
    background-color: var(--background-tertiary);
    color: var(--text-muted);
+}
+
+.theme-dark .sectionAccountCredit-2-BmhN, .theme-dark .subscriptionDetails-1pYrMz {
+   border-color: var(--background-modifier-accent);
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV, .lookFilled-1Gx00P.colorGrey-2DXtkV:active, .lookFilled-1Gx00P.colorGrey-2DXtkV:disabled, .progress-5tMCVk .progressBar-3zryPV, .liveQualityIndicator-3XCjEU, #gif-picker-tab-panel .result-3w1ZcL {
+   background-color: var(--background-accent) !important;
 }
