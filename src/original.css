@@ -809,10 +809,6 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-floating);
 }
 
-.theme-dark .input-3yHnCz, .theme-dark .container-3ayLPN, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .addGamePopout-2RY8Ju, .theme-dark .tierBody-3aUxuc, .theme-dark .perk-2WeBWW, .theme-dark .container-2x5lvQ section, .theme-dark .container-VSDcQc .sectionTag-pXyto9, .categoryHeader-O1zU94, .theme-dark .verificationBlock-1Chfpc:hover, .theme-dark .tierBody-16Chc9 {
-   background-color: var(--background-secondary);
-}
-
 .theme-dark .tierHeaderLocked-3S508x, .theme-dark .emptyHintCard-2mUdMe, .theme-dark .tierHeaderLocked-1s2JJz {
    background-color: var(--background-tertiary);
    color: var(--text-muted);
@@ -824,4 +820,8 @@ html:not(#\20) .css-gvi9bl-control {
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV, .lookFilled-1Gx00P.colorGrey-2DXtkV:active, .lookFilled-1Gx00P.colorGrey-2DXtkV:disabled, .progress-5tMCVk .progressBar-3zryPV, .liveQualityIndicator-3XCjEU, #gif-picker-tab-panel .result-3w1ZcL {
    background-color: var(--background-accent) !important;
+}
+
+.theme-dark .input-3yHnCz, .theme-dark .container-3ayLPN, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .addGamePopout-2RY8Ju, .theme-dark .tierBody-3aUxuc, .theme-dark .perk-2WeBWW, .theme-dark .container-2x5lvQ section, .theme-dark .container-VSDcQc .sectionTag-pXyto9, .categoryHeader-O1zU94, .theme-dark .verificationBlock-1Chfpc:hover, .theme-dark .tierBody-16Chc9, .cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g, .cardPrimaryOutline-29Ujqw, .cardPrimaryOutlineEditable-PEnpzz {
+   background-color: var(--background-secondary);
 }
