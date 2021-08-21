@@ -1,4 +1,3 @@
-@import "https://nyri4.github.io/Discolored/main.css";
 :root, .theme-light, .theme-dark {
    --accent: #5865f2 !important;
    --activity-card-background: var(--background-tertiary) !important;
