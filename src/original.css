@@ -721,7 +721,7 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--scrollbar-thin-thumb);
 }
 
-.input-rwLH4i {
+.input-rwLH4i, .bd-switch input {
    -webkit-appearance: none !important;
    appearance: none !important;
    background: var(--b, var(--background));
@@ -747,7 +747,7 @@ html:not(#\20) .css-gvi9bl-control {
    --focus: none;
 }
 
-.input-rwLH4i::after {
+.input-rwLH4i::after, .bd-switch input::after {
    background: var(--ab, var(--checkbox-circle));
    border-radius: 50%;
    content: '';
@@ -763,7 +763,7 @@ html:not(#\20) .css-gvi9bl-control {
    width: 15px;
 }
 
-.input-rwLH4i:checked {
+.input-rwLH4i:checked, .bd-switch input:checked {
    --ab: var(--active-inner);
    --b: var(--active);
    --bc: var(--active);
@@ -773,23 +773,23 @@ html:not(#\20) .css-gvi9bl-control {
    --x: 17px;
 }
 
-.input-rwLH4i:disabled+label {
+.input-rwLH4i:disabled+label, .bd-switch input:disabled+label {
    cursor: not-allowed;
 }
 
-.input-rwLH4i:disabled, .input-rwLH4i:disabled:checked {
+.input-rwLH4i:disabled, .input-rwLH4i:disabled:checked, .bd-switch input:disabled, .bd-switch input:disabled:checked {
    --bc: var(--border);
 }
 
-.input-rwLH4i:disabled:not(:checked):after {
+.input-rwLH4i:disabled:not(:checked):after, .bd-switch input:disabled:not(:checked):after {
    opacity: .6;
 }
 
-.input-rwLH4i:focus {
+.input-rwLH4i:focus, .bd-switch input:focus {
    box-shadow: 0 0 0 var(--focus);
 }
 
-.input-rwLH4i:hover:not(:checked):not(:disabled) {
+.input-rwLH4i:hover:not(:checked):not(:disabled), .bd-switch input:hover:not(:checked):not(:disabled) {
    --bc: var(--border-hover);
 }
 
@@ -797,7 +797,7 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: transparent !important;
 }
 
-.container-3auIfb .slider-TkfMQL {
+.container-3auIfb .slider-TkfMQL, .bd-switch-body {
    display: none !important;
 }
 
