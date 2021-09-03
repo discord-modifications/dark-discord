@@ -494,11 +494,6 @@ html:not(#\20) .css-gvi9bl-control {
    color: var(--text-muted);
 }
 
-.theme-dark .auditLog-3jNbM6 {
-   border-color: var(--background-modifier-accent);
-   color: var(--text-muted);
-}
-
 .theme-dark .background-3xPPFc, .theme-dark .gemWithoutLabel-7-ZvB_ {
    color: var(--background-accent);
 }
@@ -830,11 +825,6 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
    color: var(--text-muted);
 }
 
-.theme-dark .auditLog-2ph_aK {
-   border-color: var(--background-modifier-accent);
-   color: var(--text-muted);
-}
-
 .theme-dark .headerClickable-g5d9lT, .theme-dark .headerDefault-2D4Kcg {
    background-color: var(--background-modifier-hover);
    color: var(--text-muted);
@@ -849,5 +839,14 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
 }
 
 .theme-dark .searchOption-zQ-1l6 .answer-1n6g43, .theme-dark .option-96V44q.user-O3Czj0 .displayUsername-Qekxml, .lookGhost-2Fn_0-.colorGrey-2DXtkV, .theme-dark .searchResultChannelCategory-1l0lSn, .theme-dark .searchResultChannelIcon-1DnTme, .theme-dark .tierLock-3CSxSX, .theme-dark .discriminator-byOsvi, .theme-dark .keybind-KpFkfr, .theme-dark .nowPlayingAdd-1Kdmh_, .theme-dark .notDetected-33MY4s .lastPlayed-3bQ7Bo, .theme-dark .resultsGroup-r_nuzN .header-2N-gMV, .theme-dark .resultsGroup-r_nuzN .plusIcon-v0BTrL, .theme-dark .resultsGroup-r_nuzN .searchClearHistory-2cSSMO, .theme-dark .resultsGroup-r_nuzN .searchLearnMore-3SQUAj a, .theme-dark .date-1k6kG2, .disabled-3I9jyo, .theme-dark .rowBody-3dJTTZ, .theme-dark .timestamp-1mruiI, .theme-dark .bannedUser-1IalTM .username-1b3MVI .discrim-oGb-FO, .theme-dark .bannedUserModal-3RJCOV .reason-YbfGC6, .theme-dark .bannedUserModal-3RJCOV .userDiscrim-1D2NlF, .avatarUploader-3XDtmn .sizeInfo-SKMPPw, .regionSelectModal-12e-57 .regionSelectModalFooter-20C5iA, .theme-dark .container-VSDcQc .sectionTag-pXyto9, .maxLength-39QFBo, .overflowRolesPopoutHeaderText-1SW-y3, .theme-dark .descriptionWrapper-1YBY_J, .theme-dark .timestamp-3B0F1C, .tierIconLocked-3jQkNk {
+   color: var(--text-muted);
+}
+
+.theme-dark .override-2YgiXd:hover {
+   background-color: var(--background-secondary-alt);
+}
+
+.theme-dark .auditLog-3jNbM6, .theme-dark .auditLog-2ph_aK {
+   border-color: var(--background-modifier-accent);
    color: var(--text-muted);
 }
