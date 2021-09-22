@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/slow/dark-discord/main/assets/banner.png)
+![Banner](https://raw.githubusercontent.com/slow/dark-discord/master/assets/banner.png)
 
 <p align='center'>
    <a href='https://discord.gg/HQ5N7Rcajc'><img align='center' alt='Discord' src='https://img.shields.io/discord/887015827134632057?color=745ec5&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
@@ -29,6 +29,6 @@
 #### Web
 - Install **Stylus** for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
 
-- Visit [this link](https://raw.githubusercontent.com/slow/dark-discord/main/DarkDiscord.user.css)
+- Visit [this link](https://raw.githubusercontent.com/slow/dark-discord/master/DarkDiscord.user.css)
 
 - Install the style directly into your browser
