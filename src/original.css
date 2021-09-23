@@ -1,5 +1,5 @@
 :root, .theme-light, .theme-dark {
-   --accent: #5865f2 !important;
+   --accent: var(--brand-experiment) !important;
    --activity-card-background: var(--background-tertiary) !important;
    --background-accent: #292929 !important;
    --background-accent-alt: #242424 !important;
