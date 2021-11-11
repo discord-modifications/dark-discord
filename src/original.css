@@ -727,10 +727,6 @@ html:not(#\20) .css-gvi9bl-control {
    color: var(--text-muted);
 }
 
-.theme-dark .option-96V44q.selected-rZcOL- {
-   background-color: var(--background-modifier-active);
-}
-
 .theme-dark .option-96V44q:after {
    background: none !important;
 }
@@ -870,4 +866,8 @@ html:not(#\20) .css-gvi9bl-control {
 
 div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
    background-image: url(https://slow.github.io/dark-discord/assets/missed_call.svg) !important;
+}
+
+.theme-dark .option-96V44q.selected-rZcOL-, .theme-dark .option-96V44q[aria-selected=true] {
+   background-color: var(--background-modifier-active);
 }
