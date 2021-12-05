@@ -8,6 +8,7 @@
     --background-modifier-active: rgba(255, 255, 255, 0.03) !important;
     --background-modifier-hover: rgba(255, 255, 255, 0.02) !important;
     --background-modifier-selected: rgba(255, 255, 255, 0.04) !important;
+    --background-nested-floating: var(--background-floating);
     --background-primary: #141414 !important;
     --background-secondary: #111 !important;
     --background-secondary-alt: #0e0e0e !important;
