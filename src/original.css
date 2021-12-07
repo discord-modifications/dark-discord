@@ -888,6 +888,10 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
 }
 
 .theme-dark .elevationBorderHigh-2_BGCd {
-   -webkit-box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 #000;
-   box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 #000;
+   -webkit-box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.25);
+   box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.25);
+}
+
+.tutorialContainer-11ICd5 .childWrapper-anI2G9 rect[fill="#36393f"] {
+   fill: var(--background-primary) !important;
 }
