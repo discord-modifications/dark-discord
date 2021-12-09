@@ -660,10 +660,6 @@ html:not(#\20) .css-gvi9bl-control {
    box-shadow: var(--elevation-high);
 }
 
-.theme-dark .focused-2bY0OD, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .videoWrapper-2v09vt, .theme-dark .streamPreview-2-WUWT, .theme-dark .container-2x5lvQ .header-2C89wJ, .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4, .theme-dark .invalidPoop-pnUbq7, .navRow-3bgpKd {
-   background-color: var(--background-tertiary);
-}
-
 .theme-dark .footer-3mqk7D, .theme-dark .message-2qRu38 {
    background-color: var(--background-secondary);
    box-shadow: var(--elevation-high);
@@ -682,10 +678,6 @@ html:not(#\20) .css-gvi9bl-control {
    -webkit-box-shadow: var(--elevation-high);
    background-color: var(--background-primary);
    box-shadow: var(--elevation-high);
-}
-
-.theme-dark .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa, .theme-dark .divider-1pnAR2, .theme-dark .tab-2j5AEF.selected-2LAck8, .theme-dark .divider-38zUJA, .theme-dark .divider-1tf9AP {
-   background-color: var(--background-modifier-accent);
 }
 
 .theme-dark .headerClickable-g5d9lT, .theme-dark .headerDefault-2D4Kcg {
@@ -749,10 +741,6 @@ html:not(#\20) .css-gvi9bl-control {
 
 .theme-dark .overridePlaceholder-14_rPI {
    border: 1px dashed var(--background-accent);
-}
-
-.theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .cta-3gK0Pu, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8, .buttonColor-2Nx30V, .theme-dark .defaultIndicator-3WqGFB, .theme-dark .installSize-1eXbBX, .theme-dark .defaultIndicator-G3c16x, .theme-dark .voiceSectionIconWrapper-FO7UEY, .theme-dark .multipleIconWrapper-DfGWrz {
-   background-color: var(--background-accent);
 }
 
 .theme-dark .placeholder-1kJjXI, .participantsButton-KYW-IW, .theme-dark .iconWrapper-3LVgIo, .powercord-quickcss-editor-settings .close:hover {
@@ -894,4 +882,16 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
 
 .tutorialContainer-11ICd5 .childWrapper-anI2G9 rect[fill="#36393f"] {
    fill: var(--background-primary) !important;
+}
+
+.theme-dark .focused-2bY0OD, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .videoWrapper-2v09vt, .theme-dark .streamPreview-2-WUWT, .theme-dark .container-2x5lvQ .header-2C89wJ, .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4, .theme-dark .invalidPoop-pnUbq7, .navRow-3bgpKd, .theme-dark.navRow-3bgpKd {
+   background-color: var(--background-tertiary);
+}
+
+.theme-dark .header-2-Imhb .tabBar-1kuXvJ .tab-ck0077.active-1MbGPa, .theme-dark .divider-1pnAR2, .theme-dark .tab-2j5AEF.selected-2LAck8, .theme-dark .divider-38zUJA, .theme-dark .divider-1tf9AP, .theme-dark .copyLink-2thG89:before {
+   background-color: var(--background-modifier-accent);
+}
+
+.theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-3mBoXq, .theme-dark .barBackground-2EEiLw, .cta-2DQ2ez, .cta-3gK0Pu, .statusOffline-37RKt7, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-1B5ZV8, .buttonColor-2Nx30V, .theme-dark .defaultIndicator-3WqGFB, .theme-dark .installSize-1eXbBX, .theme-dark .defaultIndicator-G3c16x, .theme-dark .voiceSectionIconWrapper-FO7UEY, .theme-dark .multipleIconWrapper-DfGWrz, .gifIconContainer-3OM7ph {
+   background-color: var(--background-accent);
 }
