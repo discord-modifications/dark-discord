@@ -151,7 +151,7 @@
    border-color: var(--background-modifier-accent);
 }
 
-.theme-dark .elevationHigh-1PneE4, .userPopout-3XzG_A {
+.theme-dark .elevationHigh-28Pty4, .userPopout-3XzG_A {
    box-shadow: var(--elevation-high) !important;
 }
 
@@ -225,7 +225,7 @@
    background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23141414'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
 }
 
-.theme-dark .outer-2JOHae.active-1W_Gl9, .theme-dark .outer-2JOHae.interactive-2zD88a:hover, .container-2McqkF {
+.container-20TyK0, .theme-dark .outer-2JOHae.active-1W_Gl9, .theme-dark .outer-2JOHae.interactive-2zD88a:hover, .container-2McqkF {
    background-color: var(--background-floating) !important;
 }
 
@@ -843,7 +843,7 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-floating);
 }
 
-.theme-dark .tierLock-1uBqZ0, .theme-dark .bannedUser-26qsXF .username-2QcOp4 .discrim-1rThJo, .theme-dark .bannedUserModal-9XjyCI .reason-3pVhOz, .theme-dark .bannedUserModal-9XjyCI .userDiscrim-vaUAuA, .theme-dark .searchOption-351dTI .answer-2fBfuP, .theme-dark .option-2KkUJO.user-23VtPS .displayUsername-14aOpK, .lookGhost-2Fn_0-.colorGrey-2iAG-B, .theme-dark .searchResultChannelCategory-3cL8uG, .theme-dark .searchResultChannelIcon-1Il1Qo, .theme-dark .discriminator-1DCM-o, .theme-dark .keybind-13vtq8, .theme-dark .nowPlayingAdd-1Kdmh_, .theme-dark .notDetected-2HEmAp .lastPlayed-3aHvxk, .theme-dark .resultsGroup-1BPR25 .header-3A13BX, .theme-dark .resultsGroup-1BPR25 .plusIcon-2V7coV, .theme-dark .resultsGroup-1BPR25 .searchClearHistory-2cSSMO, .theme-dark .resultsGroup-1BPR25 .searchLearnMore-7__o_n a, .theme-dark .date-1k6kG2, .disabled-35mc5w, .theme-dark .rowBody-3dJTTZ, .theme-dark .timestamp-1mruiI, .theme-dark .bannedUser-1IalTM .username-1b3MVI .discrim-oGb-FO, .theme-dark .bannedUserModal-3RJCOV .reason-YbfGC6, .theme-dark .bannedUserModal-3RJCOV .userDiscrim-1D2NlF, .avatarUploader-AF-hm- .sizeInfo-SKMPPw, .regionSelectModal-12e-57 .regionSelectModalFooter-20C5iA, .theme-dark .container-1S70rv .sectionTag-28mLyE, .maxLength-39QFBo, .overflowRolesPopoutHeaderText-1SW-y3, .theme-dark .descriptionWrapper-1YBY_J, .theme-dark .timestamp-147bcs, .tierIconLocked-RGSkSl, .theme-dark .body-3PNusm {
+.theme-dark .tierLock-1uBqZ0, .theme-dark .bannedUser-26qsXF .username-2QcOp4 .discrim-1rThJo, .theme-dark .bannedUserModal-9XjyCI .reason-3pVhOz, .theme-dark .bannedUserModal-9XjyCI .userDiscrim-vaUAuA, .theme-dark .searchOption-351dTI .answer-2fBfuP, .theme-dark .option-2KkUJO.user-23VtPS .displayUsername-14aOpK, .lookGhost-2Fn_0-.colorGrey-2iAG-B, .theme-dark .searchResultChannelCategory-3cL8uG, .theme-dark .searchResultChannelIcon-1Il1Qo, .theme-dark .discriminator-1DCM-o, .theme-dark .keybind-13vtq8, .theme-dark .nowPlayingAdd-1Kdmh_, .theme-dark .notDetected-2HEmAp .lastPlayed-3aHvxk, .theme-dark .resultsGroup-1BPR25 .header-3A13BX, .theme-dark .resultsGroup-1BPR25 .plusIcon-2V7coV, .theme-dark .resultsGroup-1BPR25 .searchClearHistory-2cSSMO, .theme-dark .resultsGroup-1BPR25 .searchLearnMore-7__o_n a, .theme-dark .date-1k6kG2, .disabled-35mc5w, .theme-dark .rowBody-3dJTTZ, .theme-dark .timestamp-1mruiI, .theme-dark .bannedUser-1IalTM .username-1b3MVI .discrim-oGb-FO, .theme-dark .bannedUserModal-3RJCOV .reason-YbfGC6, .theme-dark .bannedUserModal-3RJCOV .userDiscrim-1D2NlF, .avatarUploader-AF-hm- .sizeInfo-SKMPPw, .regionSelectModal-12e-57 .regionSelectModalFooter-20C5iA, .theme-dark .container-1S70rv .sectionTag-28mLyE, .maxLength-IdVNmX, .overflowRolesPopoutHeaderText-1SW-y3, .theme-dark .descriptionWrapper-1YBY_J, .theme-dark .timestamp-147bcs, .tierIconLocked-RGSkSl, .theme-dark .body-3PNusm {
    color: var(--text-muted);
 }
 
