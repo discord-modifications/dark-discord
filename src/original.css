@@ -385,7 +385,7 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--scrollbar-thin-thumb) !important;
 }
 
-.avatarUploaderInnerSquareDisabled-e_U2MZ, .theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3HqqDX, .theme-dark .tierInProgress-1vFUnw, .theme-dark .barBackground-unEPDT, .cta-3-AFNF, .cta-3gK0Pu, .statusOffline-2R-ArP, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-Tt7anD, .buttonColor-2Nx30V, .theme-dark .defaultIndicator-2ndWks, .theme-dark .installSize-1eXbBX, .theme-dark .voiceSectionIconWrapper-FO7UEY, .theme-dark .multipleIconWrapper-DfGWrz, .gifIconContainer-3OM7ph {
+.avatarUploaderInnerSquareDisabled-e_U2MZ, .theme-dark .partyMemberOverflow-lXnzvu, .theme-dark .dim-1l4L4y span, .button-3Vyz67, .theme-dark .tierInProgress-1vFUnw, .theme-dark .barBackground-unEPDT, .cta-3-AFNF, .cta-3gK0Pu, .statusOffline-2R-ArP, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9, .theme-dark .tierPill-1yRO48, .option-Tt7anD, .buttonColor-2Nx30V, .theme-dark .defaultIndicator-2ndWks, .theme-dark .installSize-1eXbBX, .theme-dark .voiceSectionIconWrapper-FO7UEY, .theme-dark .multipleIconWrapper-DfGWrz, .gifIconContainer-3OM7ph {
    background-color: var(--background-accent);
 }
 
@@ -419,7 +419,7 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: #FFA600 !important;
 }
 
-.button-3HqqDX:hover, .cta-3-AFNF:hover, .cta-3gK0Pu:hover, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9:hover, .buttonColor-2Nx30V:hover {
+.button-3Vyz67:hover, .cta-3-AFNF:hover, .cta-3gK0Pu:hover, .theme-dark .spoilerText-3p6IlD.hidden-HHr2R9:hover, .buttonColor-2Nx30V:hover {
    background-color: var(--background-accent-alt);
 }
 
