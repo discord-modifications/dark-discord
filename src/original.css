@@ -80,10 +80,6 @@
    box-shadow: var(--elevation-high) !important;
 }
 
-.css-o3gndj-placeholder, .autocompleteRowVertical-EA9dCg .selectable-1MM9tu .colorStandard-21JIj7 {
-   color: var(--text-muted) !important;
-}
-
 .imageLoading-2uloYN {
    background: var(--background-accent) !important;
    border-radius: 10px;
@@ -365,6 +361,10 @@
 html:not(#\20) .css-gvi9bl-control {
    background-color: var(--deprecated-text-input-bg);
    border-color: var(--deprecated-text-input-border);
+}
+
+.css-o3gndj-placeholder, .autocompleteRowVertical-EA9dCg .selectable-1MM9tu .colorStandard-21JIj7, .input-2g-os5::placeholder {
+   color: var(--text-muted) !important;
 }
 
 @keyframes flash {
@@ -735,10 +735,6 @@ html:not(#\20) .css-gvi9bl-control {
    fill: var(--text-muted);
 }
 
-.theme-dark .override-1sK4r0:hover {
-   background-color: var(--background-secondary-alt);
-}
-
 .theme-dark .overridePlaceholder-1nDEsX {
    border: 1px dashed var(--background-accent);
 }
@@ -894,4 +890,8 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
 
 .theme-dark .partyMemberOverflow-3G1oZz, .theme-dark .dim-2Uxgxb span, .button-3Vyz67, .theme-dark .tierInProgress-1vFUnw, .theme-dark .barBackground-unEPDT, .cta-2DQ2ez, .cta-3-AFNF, .statusOffline-2R-ArP, .theme-dark .spoilerText-27bIiA.hidden-3B-Rum, .theme-dark .tierPill-1yRO48, .option-Tt7anD, .buttonColor-28DXIe, .theme-dark .defaultIndicator-1AxErs, .theme-dark .installSize-3az1nt, .theme-dark .defaultIndicator-2ndWks, .theme-dark .voiceSectionIconWrapper-4yoj76, .theme-dark .multipleIconWrapper-2YHnS6, .gifIconContainer-3os21a {
    background-color: var(--background-accent);
+}
+
+.theme-dark .override-1sK4r0:hover, .theme-dark .searchBox-pyIJJj {
+   background-color: var(--background-secondary-alt);
 }
