@@ -101,7 +101,7 @@
    box-shadow: var(--elevation-high);
 }
 
-.result-3OpoO7[style*="background-color: rgb(24, 25, 28);"], .lookFilled-yCfaCM.button-f2h6uQ.colorPrimary-2AuQVo {
+.result-pzZrwj[style*="background-color: rgb(24, 25, 28);"], .lookFilled-yCfaCM.button-f2h6uQ.colorPrimary-2AuQVo {
    background-color: var(--background-accent) !important;
 }
 
@@ -526,7 +526,7 @@ html:not(#\20) .css-gvi9bl-control {
    --bc: var(--border-hover);
 }
 
-.lookFilled-yCfaCM.colorGrey-2iAG-B, .lookFilled-yCfaCM.colorGrey-2iAG-B:active, .lookFilled-yCfaCM.colorGrey-2iAG-B:disabled, .progress-3ClF2n .progressBar-3DupbT, .liveQualityIndicator-8fb_DX, #gif-picker-tab-panel .result-3OpoO7 {
+.lookFilled-yCfaCM.colorGrey-2iAG-B, .lookFilled-yCfaCM.colorGrey-2iAG-B:active, .lookFilled-yCfaCM.colorGrey-2iAG-B:disabled, .progress-3ClF2n .progressBar-3DupbT, .liveQualityIndicator-8fb_DX, #gif-picker-tab-panel .result-pzZrwj {
    background-color: var(--background-accent) !important;
 }
 
@@ -573,7 +573,7 @@ html:not(#\20) .css-gvi9bl-control {
    box-shadow: var(--elevation-high);
 }
 
-.result-3OpoO7[style*="background-color: rgb(24, 25, 28)"] {
+.result-pzZrwj[style*="background-color: rgb(24, 25, 28)"] {
    background: unset !important;
 }
 
@@ -801,7 +801,7 @@ html:not(#\20) .css-gvi9bl-control {
    color: var(--text-muted);
 }
 
-.theme-dark .tierHeaderUnlocked-1OpOLf, .toolbar-37BrJ5, .theme-dark .previewContainer-21fFBz, .tile-2TcwiO, .theme-dark .applicationStreamingPreviewWrapper-7j27t8, .theme-dark .tile-2mmK5T:hover {
+.theme-dark .tierHeaderUnlocked-1OpOLf, .toolbar-37BrJ5, .theme-dark .previewContainer-35LFgt, .tile-2TcwiO, .theme-dark .applicationStreamingPreviewWrapper-7j27t8, .theme-dark .tile-2mmK5T:hover {
    background-color: var(--background-floating);
 }
 
@@ -819,7 +819,7 @@ html:not(#\20) .css-gvi9bl-control {
    border: 1px solid var(--background-secondary);
 }
 
-.theme-dark .watchButton-2v6cPT {
+.theme-dark .watchButton-2YRKxv {
    border-color: var(--background-accent);
 }
 
@@ -852,7 +852,7 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
-   background-image: url(https://eternal404.github.io/dark-discord/assets/missed_call.svg) !important;
+   background-image: url(https://slow.github.io/dark-discord/assets/missed_call.svg) !important;
 }
 
 .theme-dark .option-2KkUJO.selected-rZcOL-, .theme-dark .option-2KkUJO[aria-selected=true] {
@@ -880,7 +880,7 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
    fill: var(--background-primary) !important;
 }
 
-.theme-dark .focused-2FU0YH, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--disabled, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .videoWrapper-3rtb_V, .theme-dark .streamPreview-3qoMP4, .theme-dark .container-1ILvLB .header-2C89wJ, .theme-dark .autocompleteArrow-jJE9TQ, .theme-dark .header-3i_Csh, .theme-dark .invalidPoop--w1123, .navRow-dG-XX8, .theme-dark.navRow-dG-XX8 {
+.theme-dark .focused-2FU0YH, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--disabled, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .videoWrapper-3rtb_V, .theme-dark .streamPreview-I7itZ6, .theme-dark .container-1ILvLB .header-2C89wJ, .theme-dark .autocompleteArrow-jJE9TQ, .theme-dark .header-3i_Csh, .theme-dark .invalidPoop--w1123, .navRow-dG-XX8, .theme-dark.navRow-dG-XX8 {
    background-color: var(--background-tertiary);
 }
 
