@@ -1,11 +1,13 @@
 {
    "name": "Dark Discord",
    "description": "An actual dark mode for discord.",
+   "id": "eternal.dark-discord",
    "icon": "assets/icon.png",
    "version": "1.0.0",
    "author": "eternal",
    "theme": "index.scss",
    "discord": "HQ5N7Rcajc",
+   "splash": "splash.css",
    "splashTheme": "splash.css",
    "license": "Unlicensed",
    "consent": false
