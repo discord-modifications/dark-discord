@@ -1,0 +1,79 @@
+.container-2nx-BQ {
+	background-color: transparent !important;
+}
+
+.container-2nx-BQ .slider-32CRPX, .bd-switch-body {
+	display: none !important;
+} 
+
+.input-2XRLou, .bd-switch input {
+	-webkit-appearance: none !important;
+	appearance: none !important;
+	background: var(--b, var(--background));
+	border: 1px solid transparent;
+	border-radius: 11px;
+	cursor: pointer;
+	display: inline-block;
+	height: 21px;
+	margin: 0;
+	opacity: 1;
+	outline: none;
+	position: relative;
+	transition: background 0.3s, border-color 0.3s, box-shadow .2s;
+	vertical-align: top;
+	width: 38px !important;
+	--active: var(--accent);
+	--active-inner: #fff;
+	--background: var(--background-accent);
+	--border-hover: #fff;
+	--checkbox-circle: #fff;
+	--disabled: #f6f8ff;
+	--disabled-inner: var(--background);
+	--focus: none;
+}
+
+.input-2XRLou::after, .bd-switch input::after {
+	background: var(--ab, var(--checkbox-circle));
+	border-radius: 50%;
+	content: '';
+	display: block;
+	height: 15px;
+	left: 0;
+	left: 2px;
+	position: absolute;
+	top: 0;
+	top: 2px;
+	transform: translateX(var(--x, 0));
+	transition: transform var(--d-t, 0.3s) var(--d-t-e, ease), opacity var(--d-o, 0.2s);
+	width: 15px;
+}
+
+.input-2XRLou:checked, .bd-switch input:checked {
+	--ab: var(--active-inner);
+	--b: var(--active);
+	--bc: var(--active);
+	--d-o: .3s;
+	--d-t: .6s;
+	--d-t-e: cubic-bezier(.2, .85, .32, 1.2);
+	--x: 17px;
+}
+
+.input-2XRLou:disabled+label, .bd-switch input:disabled+label {
+	cursor: not-allowed;
+}
+
+.input-2XRLou:disabled, .input-2XRLou:disabled:checked, .bd-switch input:disabled, .bd-switch input:disabled:checked {
+	--bc: var(--border);
+}
+
+.input-2XRLou:disabled:not(:checked):after, .bd-switch input:disabled:not(:checked):after {
+	opacity: .6;
+}
+
+.input-2XRLou:focus, .bd-switch input:focus {
+	box-shadow: 0 0 0 var(--focus);
+}
+
+.input-2XRLou:hover:not(:checked):not(:disabled), .bd-switch input:hover:not(:checked):not(:disabled) {
+	--bc: var(--border-hover);
+}
