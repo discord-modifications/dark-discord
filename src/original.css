@@ -1,4 +1,4 @@
-@import url(https://eternal404.github.io/dark-discord/src/switches.css);
+@import "https://eternal404.github.io/dark-discord/src/switches.css";
 
 :root, .theme-light, .theme-dark {
    --accent: var(--brand-experiment) !important;
@@ -416,7 +416,7 @@ html:not(#\20) .css-gvi9bl-control {
    background: var(--background-primary);
 }
 
-.container-2O1UgZ, .qualitySettingsContainer-30AsSH {
+.container-2O1UgZ, .qualitySettingsContainer-2LjkfM {
    border: 1px solid var(--background-tertiary);
 }
 
@@ -444,7 +444,7 @@ html:not(#\20) .css-gvi9bl-control {
    fill: var(--background-accent) !important;
 }
 
-.lookFilled-yCfaCM.colorGrey-2iAG-B, .lookFilled-yCfaCM.colorGrey-2iAG-B:active, .lookFilled-yCfaCM.colorGrey-2iAG-B:disabled, .progress-3ClF2n .progressBar-3DupbT, .liveQualityIndicator-8fb_DX, #gif-picker-tab-panel .result-pzZrwj {
+.lookFilled-yCfaCM.colorGrey-2iAG-B, .lookFilled-yCfaCM.colorGrey-2iAG-B:active, .lookFilled-yCfaCM.colorGrey-2iAG-B:disabled, .progress-3ClF2n .progressBar-3DupbT, .liveQualityIndicator-2GyS_e, #gif-picker-tab-panel .result-pzZrwj {
    background-color: var(--background-accent) !important;
 }
 
@@ -770,7 +770,7 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
-   background-image: url(https://slow.github.io/dark-discord/assets/missed_call.svg) !important;
+   background-image: url(https://eternal404.github.io/dark-discord/assets/missed_call.svg) !important;
 }
 
 .theme-dark .option-2KkUJO.selected-rZcOL-, .theme-dark .option-2KkUJO[aria-selected=true] {
