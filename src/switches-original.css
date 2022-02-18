@@ -7,21 +7,20 @@
 }
 
 .input-2XRLou, .bd-switch input {
-   -webkit-appearance: none !important;
    appearance: none !important;
    background: var(--b, var(--background));
    border: 1px solid transparent;
    border-radius: 11px;
    cursor: pointer;
    display: inline-block;
-   height: 21px;
+   height: 24px;
    margin: 0;
    opacity: 1;
-   outline: none;
+   outline: 0;
    position: relative;
-   transition: background 0.3s, border-color 0.3s, box-shadow .2s;
+   transition: background .3s, border-color .3s, box-shadow .2s;
    vertical-align: top;
-   width: 38px !important;
+   width: 40px !important;
    --active: var(--accent);
    --active-inner: #fff;
    --background: var(--background-accent);
@@ -37,15 +36,13 @@
    border-radius: 50%;
    content: '';
    display: block;
-   height: 15px;
-   left: 0;
-   left: 2px;
+   height: 16px;
+   left: 2.5px;
    position: absolute;
-   top: 0;
-   top: 2px;
+   top: 3px;
    transform: translateX(var(--x, 0));
    transition: transform var(--d-t, 0.3s) var(--d-t-e, ease), opacity var(--d-o, 0.2s);
-   width: 15px;
+   width: 16px;
 }
 
 .input-2XRLou:checked, .bd-switch input:checked {
@@ -55,7 +52,7 @@
    --d-o: .3s;
    --d-t: .6s;
    --d-t-e: cubic-bezier(.2, .85, .32, 1.2);
-   --x: 17px;
+   --x: 18px;
 }
 
 .input-2XRLou:disabled+label, .bd-switch input:disabled+label {
