@@ -705,7 +705,7 @@ html:not(#\20) .css-gvi9bl-control {
    color: var(--text-muted);
 }
 
-.theme-dark .searchOption-351dTI .filter-5YbOzJ, .theme-dark .option-2KkUJO .filter-5YbOzJ, .theme-dark .option-2KkUJO.user-23VtPS .displayedNick-2dDbfG, .theme-dark .option-2KkUJO .answer-2fBfuP, .theme-dark .option-2KkUJO .nonText-3_4gtu, .theme-dark .option-2KkUJO strong, .regionSelectName-2-2FWh, .theme-dark .notDetected-2HEmAp .gameName-Uw4dbt, .theme-dark .content-s2SEQO ol, .theme-dark .content-s2SEQO p, .theme-dark .content-s2SEQO ul li, .theme-dark .rowTitle-2MoCno, .theme-dark .userHook-3AdCBF, .theme-dark .auditLog-3jNbM6 strong {
+.theme-dark .searchOption-351dTI .filter-5YbOzJ, .theme-dark .option-2KkUJO .filter-5YbOzJ, .theme-dark .option-ayUoaq.user-1dKxvu .displayedNick-1atSpT, .theme-dark .option-2KkUJO .answer-14OVbQ, .theme-dark .option-2KkUJO .nonText-3_4gtu, .theme-dark .option-2KkUJO strong, .regionSelectName-2-2FWh, .theme-dark .notDetected-2HEmAp .gameName-Uw4dbt, .theme-dark .content-s2SEQO ol, .theme-dark .content-s2SEQO p, .theme-dark .content-s2SEQO ul li, .theme-dark .rowTitle-2MoCno, .theme-dark .userHook-3AdCBF, .theme-dark .auditLog-3jNbM6 strong {
    color: var(--text-normal);
 }
 
@@ -773,7 +773,7 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
    background-image: url(https://eternal404.github.io/dark-discord/assets/missed_call.svg) !important;
 }
 
-.theme-dark .option-2KkUJO.selected-rZcOL-, .theme-dark .option-2KkUJO[aria-selected=true] {
+.theme-dark .option-2KkUJO.selected-rZcOL-, .theme-dark .option-ayUoaq[aria-selected=true] {
    background-color: var(--background-modifier-active);
 }
 
@@ -781,7 +781,7 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
    background-color: var(--background-primary);
 }
 
-.theme-dark .tierLock-1uBqZ0, .theme-dark .bannedUser-26qsXF .username-2QcOp4 .discrim-1rThJo, .theme-dark .bannedUserModal-9XjyCI .reason-3pVhOz, .theme-dark .bannedUserModal-9XjyCI .userDiscrim-vaUAuA, .theme-dark .searchOption-351dTI .answer-2fBfuP, .theme-dark .option-2KkUJO.user-23VtPS .displayUsername-14aOpK, .lookGhost-2Fn_0-.colorGrey-2iAG-B, .theme-dark .searchResultChannelCategory-3cL8uG, .theme-dark .searchResultChannelIcon-1Il1Qo, .theme-dark .tierLock-3CSxSX, .theme-dark .discriminator-1DCM-o, .theme-dark .keybind-13vtq8, .theme-dark .nowPlayingAdd-3lvnXJ, .theme-dark .notDetected-2HEmAp .lastPlayed-1jum9A, .theme-dark .resultsGroup-1BPR25 .header-3A13BX, .theme-dark .resultsGroup-1BPR25 .plusIcon-2V7coV, .theme-dark .resultsGroup-1BPR25 .searchClearHistory-2Be-92, .theme-dark .resultsGroup-1BPR25 .searchLearnMore-7__o_n a, .theme-dark .date-1k6kG2, .disabled-35mc5w, .theme-dark .rowBody-uWDd7Y, .theme-dark .timestamp-1mruiI, .theme-dark .bannedUser-1IalTM .username-1b3MVI .discrim-oGb-FO, .theme-dark .bannedUserModal-3RJCOV .reason-YbfGC6, .theme-dark .bannedUserModal-3RJCOV .userDiscrim-1D2NlF, .avatarUploader-AF-hm- .sizeInfo-Wk0Ksj, .regionSelectModal-12e-57 .regionSelectModalFooter-20C5iA, .theme-dark .container-1S70rv .sectionTag-28mLyE, .maxLength-IdVNmX, .overflowRolesPopoutHeaderText-3HyHGv, .theme-dark .descriptionWrapper-eOmU90, .theme-dark .timestamp-147bcs, .tierIconLocked-RGSkSl, .theme-dark .body-2rDNbs {
+.theme-dark .tierLock-1uBqZ0, .theme-dark .bannedUser-26qsXF .username-2QcOp4 .discrim-1rThJo, .theme-dark .bannedUserModal-9XjyCI .reason-3pVhOz, .theme-dark .bannedUserModal-9XjyCI .userDiscrim-vaUAuA, .theme-dark .searchOption-3u1gRt .answer-14OVbQ, .theme-dark .option-ayUoaq.user-1dKxvu .displayUsername-UTerwm, .lookGhost-2Fn_0-.colorGrey-2iAG-B, .theme-dark .searchResultChannelCategory-19ujDo, .theme-dark .searchResultChannelIcon-C-3P9x, .theme-dark .tierLock-3CSxSX, .theme-dark .discriminator-1DCM-o, .theme-dark .keybind-13vtq8, .theme-dark .nowPlayingAdd-3lvnXJ, .theme-dark .notDetected-2HEmAp .lastPlayed-1jum9A, .theme-dark .resultsGroup-1BPR25 .header-3A13BX, .theme-dark .resultsGroup-1BPR25 .plusIcon-2V7coV, .theme-dark .resultsGroup-1BPR25 .searchClearHistory-2Be-92, .theme-dark .resultsGroup-1BPR25 .searchLearnMore-7__o_n a, .theme-dark .date-1k6kG2, .disabled-35mc5w, .theme-dark .rowBody-uWDd7Y, .theme-dark .timestamp-1mruiI, .theme-dark .bannedUser-1IalTM .username-1b3MVI .discrim-oGb-FO, .theme-dark .bannedUserModal-3RJCOV .reason-YbfGC6, .theme-dark .bannedUserModal-3RJCOV .userDiscrim-1D2NlF, .avatarUploader-AF-hm- .sizeInfo-Wk0Ksj, .regionSelectModal-12e-57 .regionSelectModalFooter-20C5iA, .theme-dark .container-1S70rv .sectionTag-28mLyE, .maxLength-IdVNmX, .overflowRolesPopoutHeaderText-3HyHGv, .theme-dark .descriptionWrapper-eOmU90, .theme-dark .timestamp-147bcs, .tierIconLocked-RGSkSl, .theme-dark .body-2rDNbs {
    color: var(--text-muted);
 }
 
