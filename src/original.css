@@ -612,7 +612,7 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-modifier-selected);
 }
 
-.theme-dark .input-3NIgDw, .theme-dark .container-2McqkF, .theme-dark .calendarPicker-sDhzdi .react-datepicker, .theme-dark .calendarPicker-sDhzdi .react-datepicker__header, .theme-dark .tierBody-1d3UiS, .theme-dark .perk-2WeBWW, .theme-dark .container-1ILvLB section, .theme-dark .container-1S70rv .sectionTag-28mLyE, .categoryHeader-OpJ1Ly, .theme-dark .verificationBlock-xhj3fR:hover, .theme-dark .tierBody-16Chc9, .cardPrimary-3qRT__, .cardPrimaryEditable-2mz_3i, .cardPrimaryOutline-1ofwVz, .cardPrimaryOutlineEditable-1VE28Z {
+.theme-dark .input-3NIgDw, .theme-dark .container-2McqkF, .theme-dark .calendarPicker-sDhzdi .react-datepicker, .theme-dark .calendarPicker-sDhzdi .react-datepicker__header, .theme-dark .tierBody-1d3UiS, .theme-dark .perk-2WeBWW, .theme-dark .container-1ILvLB section, .theme-dark .container-1S70rv .sectionTag-28mLyE, .theme-dark .verificationBlock-xhj3fR:hover, .theme-dark .tierBody-16Chc9, .cardPrimary-3qRT__, .cardPrimaryEditable-2mz_3i, .cardPrimaryOutline-1ofwVz, .cardPrimaryOutlineEditable-1VE28Z {
    background-color: var(--background-secondary);
 }
 
@@ -810,6 +810,6 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
    background-color: var(--background-accent);
 }
 
-.theme-dark .override-1sK4r0:hover, .theme-dark .searchBox-pyIJJj {
+.theme-dark .override-1sK4r0:hover, .theme-dark .searchBox-pyIJJj, .categoryHeader-OpJ1Ly {
    background-color: var(--background-secondary-alt);
 }
