@@ -612,10 +612,6 @@ html:not(#\20) .css-gvi9bl-control {
    background-color: var(--background-modifier-selected);
 }
 
-.theme-dark .input-3NIgDw, .theme-dark .container-2McqkF, .theme-dark .calendarPicker-sDhzdi .react-datepicker, .theme-dark .calendarPicker-sDhzdi .react-datepicker__header, .theme-dark .tierBody-1d3UiS, .theme-dark .perk-2WeBWW, .theme-dark .container-1ILvLB section, .theme-dark .container-1S70rv .sectionTag-28mLyE, .theme-dark .verificationBlock-xhj3fR:hover, .theme-dark .tierBody-16Chc9, .cardPrimary-3qRT__, .cardPrimaryEditable-2mz_3i, .cardPrimaryOutline-1ofwVz, .cardPrimaryOutlineEditable-1VE28Z {
-   background-color: var(--background-secondary);
-}
-
 .theme-dark .installationPath-2PbaRC {
    -webkit-box-shadow: 0 1px 0 0 var(--background-modifier-accent);
    box-shadow: 0 1px 0 0 var(--background-modifier-accent);
@@ -705,7 +701,7 @@ html:not(#\20) .css-gvi9bl-control {
    color: var(--text-muted);
 }
 
-.theme-dark .searchOption-351dTI .filter-5YbOzJ, .theme-dark .option-2KkUJO .filter-5YbOzJ, .theme-dark .option-ayUoaq.user-1dKxvu .displayedNick-1atSpT, .theme-dark .option-2KkUJO .answer-14OVbQ, .theme-dark .option-2KkUJO .nonText-3_4gtu, .theme-dark .option-2KkUJO strong, .regionSelectName-2-2FWh, .theme-dark .notDetected-2HEmAp .gameName-Uw4dbt, .theme-dark .content-s2SEQO ol, .theme-dark .content-s2SEQO p, .theme-dark .content-s2SEQO ul li, .theme-dark .rowTitle-2MoCno, .theme-dark .userHook-3AdCBF, .theme-dark .auditLog-3jNbM6 strong {
+.theme-dark .searchOption-351dTI .filter-2QaH9y, .theme-dark .option-ayUoaq .filter-2QaH9y, .theme-dark .option-ayUoaq.user-1dKxvu .displayedNick-1atSpT, .theme-dark .option-ayUoaq .answer-14OVbQ, .theme-dark .option-ayUoaq .nonText-3_4gtu, .theme-dark .option-ayUoaq strong, .regionSelectName-2-2FWh, .theme-dark .notDetected-2HEmAp .gameName-Uw4dbt, .theme-dark .content-s2SEQO ol, .theme-dark .content-s2SEQO p, .theme-dark .content-s2SEQO ul li, .theme-dark .rowTitle-2MoCno, .theme-dark .userHook-3AdCBF, .theme-dark .auditLog-3jNbM6 strong {
    color: var(--text-normal);
 }
 
@@ -773,7 +769,7 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
    background-image: url(https://eternal404.github.io/dark-discord/assets/missed_call.svg) !important;
 }
 
-.theme-dark .option-2KkUJO.selected-rZcOL-, .theme-dark .option-ayUoaq[aria-selected=true] {
+.theme-dark .option-ayUoaq.selected-rZcOL-, .theme-dark .option-ayUoaq[aria-selected=true] {
    background-color: var(--background-modifier-active);
 }
 
@@ -781,7 +777,7 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
    background-color: var(--background-primary);
 }
 
-.theme-dark .tierLock-1uBqZ0, .theme-dark .bannedUser-26qsXF .username-2QcOp4 .discrim-1rThJo, .theme-dark .bannedUserModal-9XjyCI .reason-3pVhOz, .theme-dark .bannedUserModal-9XjyCI .userDiscrim-vaUAuA, .theme-dark .searchOption-3u1gRt .answer-14OVbQ, .theme-dark .option-ayUoaq.user-1dKxvu .displayUsername-UTerwm, .lookGhost-2Fn_0-.colorGrey-2iAG-B, .theme-dark .searchResultChannelCategory-19ujDo, .theme-dark .searchResultChannelIcon-C-3P9x, .theme-dark .tierLock-3CSxSX, .theme-dark .discriminator-1DCM-o, .theme-dark .keybind-13vtq8, .theme-dark .nowPlayingAdd-3lvnXJ, .theme-dark .notDetected-2HEmAp .lastPlayed-1jum9A, .theme-dark .resultsGroup-1BPR25 .header-3A13BX, .theme-dark .resultsGroup-1BPR25 .plusIcon-2V7coV, .theme-dark .resultsGroup-1BPR25 .searchClearHistory-2Be-92, .theme-dark .resultsGroup-1BPR25 .searchLearnMore-7__o_n a, .theme-dark .date-1k6kG2, .disabled-35mc5w, .theme-dark .rowBody-uWDd7Y, .theme-dark .timestamp-1mruiI, .theme-dark .bannedUser-1IalTM .username-1b3MVI .discrim-oGb-FO, .theme-dark .bannedUserModal-3RJCOV .reason-YbfGC6, .theme-dark .bannedUserModal-3RJCOV .userDiscrim-1D2NlF, .avatarUploader-AF-hm- .sizeInfo-Wk0Ksj, .regionSelectModal-12e-57 .regionSelectModalFooter-20C5iA, .theme-dark .container-1S70rv .sectionTag-28mLyE, .maxLength-IdVNmX, .overflowRolesPopoutHeaderText-3HyHGv, .theme-dark .descriptionWrapper-eOmU90, .theme-dark .timestamp-147bcs, .tierIconLocked-RGSkSl, .theme-dark .body-2rDNbs {
+.theme-dark .tierLock-1uBqZ0, .theme-dark .bannedUser-26qsXF .username-2QcOp4 .discrim-1rThJo, .theme-dark .bannedUserModal-9XjyCI .reason-3pVhOz, .theme-dark .bannedUserModal-9XjyCI .userDiscrim-vaUAuA, .theme-dark .searchOption-3u1gRt .answer-14OVbQ, .theme-dark .option-ayUoaq.user-1dKxvu .displayUsername-UTerwm, .lookGhost-2Fn_0-.colorGrey-2iAG-B, .theme-dark .searchResultChannelCategory-19ujDo, .theme-dark .searchResultChannelIcon-C-3P9x, .theme-dark .tierLock-3CSxSX, .theme-dark .discriminator-1DCM-o, .theme-dark .keybind-13vtq8, .theme-dark .nowPlayingAdd-3lvnXJ, .theme-dark .notDetected-2HEmAp .lastPlayed-1jum9A, .theme-dark .resultsGroup-1BPR25 .header-3A13BX, .theme-dark .resultsGroup-1BPR25 .plusIcon-2V7coV, .theme-dark .resultsGroup-1BPR25 .searchClearHistory-2Be-92, .theme-dark .resultsGroup-1BPR25 .searchLearnMore-7__o_n a, .theme-dark .date-1k6kG2, .disabled-35mc5w, .theme-dark .rowBody-uWDd7Y, .theme-dark .timestamp-1mruiI, .theme-dark .bannedUser-1IalTM .username-1b3MVI .discrim-oGb-FO, .theme-dark .bannedUserModal-3RJCOV .reason-YbfGC6, .theme-dark .bannedUserModal-3RJCOV .userDiscrim-1D2NlF, .theme-dark .sizeInfo-3KtZ1G, .regionSelectModal-12e-57 .regionSelectModalFooter-20C5iA, .theme-dark .container-1S70rv .sectionTag-28mLyE, .maxLength-IdVNmX, .overflowRolesPopoutHeaderText-3HyHGv, .theme-dark .descriptionWrapper-eOmU90, .theme-dark .timestamp-147bcs, .tierIconLocked-RGSkSl, .theme-dark .body-2rDNbs {
    color: var(--text-muted);
 }
 
@@ -798,10 +794,6 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
    fill: var(--background-primary) !important;
 }
 
-.theme-dark .focused-2FU0YH, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--disabled, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .videoWrapper-3rtb_V, .theme-dark .streamPreview-I7itZ6, .theme-dark .container-1ILvLB .header-2C89wJ, .theme-dark .autocompleteArrow-jJE9TQ, .theme-dark .header-3i_Csh, .theme-dark .invalidPoop--w1123, .navRow-dG-XX8, .theme-dark.navRow-dG-XX8 {
-   background-color: var(--background-tertiary);
-}
-
 .theme-dark .header-145e10 .tabBar-1qdMr5 .tab-TRrPC8.active-1grPyy, .theme-dark .divider-1pnAR2, .theme-dark .tab-2j5AEF.selected-2LAck8, .theme-dark .divider-2L-ojc, .theme-dark .divider-M3saWq, .theme-dark .copyLink-1bBHaR:before {
    background-color: var(--background-modifier-accent);
 }
@@ -812,4 +804,12 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
 
 .theme-dark .override-1sK4r0:hover, .theme-dark .searchBox-pyIJJj, .categoryHeader-OpJ1Ly {
    background-color: var(--background-secondary-alt);
+}
+
+.theme-dark .input-3NIgDw, .theme-dark .container-2McqkF, .theme-dark .calendarPicker-sDhzdi .react-datepicker, .theme-dark .calendarPicker-sDhzdi .react-datepicker__header, .theme-dark .tierBody-1d3UiS, .theme-dark .perk-2WeBWW, .theme-dark .container-1ILvLB section, .theme-dark .container-1S70rv .sectionTag-28mLyE, .theme-dark .verificationBlock-xhj3fR:hover, .theme-dark .tierBody-16Chc9, .cardPrimary-3qRT__, .cardPrimaryEditable-2mz_3i, .cardPrimaryOutline-1ofwVz, .cardPrimaryOutlineEditable-1VE28Z, .backgroundOptionInner-SSz19O {
+   background-color: var(--background-secondary);
+}
+
+.theme-dark .focused-2FU0YH, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--disabled, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--outside-month, .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse, .videoWrapper-3rtb_V, .theme-dark .streamPreview-I7itZ6, .theme-dark .container-1ILvLB .header-2C89wJ, .theme-dark .autocompleteArrow-jJE9TQ, .theme-dark .header-3i_Csh, .theme-dark .invalidPoop--w1123, .navRow-dG-XX8, .theme-dark.navRow-dG-XX8, .theme-dark .buttonContainer-28osRq {
+   background-color: var(--background-tertiary);
 }
