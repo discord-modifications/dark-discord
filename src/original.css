@@ -1,4 +1,4 @@
-@import "https://eternal404.github.io/dark-discord/src/switches.css";
+@import "https://discord-modifications.github.io/dark-discord/src/switches.css";
 
 :root, .theme-light, .theme-dark {
    --accent: var(--brand-experiment) !important;
@@ -766,7 +766,7 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
-   background-image: url(https://eternal404.github.io/dark-discord/assets/missed_call.svg) !important;
+   background-image: url(https://discord-modifications.github.io/dark-discord/assets/missed_call.svg) !important;
 }
 
 .theme-dark .option-ayUoaq.selected-rZcOL-, .theme-dark .option-ayUoaq[aria-selected=true] {
