@@ -21,6 +21,7 @@
    --bsi-offline-color: #292929 !important;
    --channel-text-area-placeholder: var(--text-muted) !important;
    --channels-default: var(--text-muted) !important;
+   --channel-icon: var(--channels-default) !important;
    --channeltextarea-background: #202020 !important;
    --deprecated-card-bg: var(--background-secondary) !important;
    --deprecated-card-editable-bg: var(--background-secondary) !important;
