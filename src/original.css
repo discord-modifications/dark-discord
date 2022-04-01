@@ -3,7 +3,7 @@
 :root,
 .theme-light,
 .theme-dark {
-   --accent: var(--brand-experiment) !important;
+   --accent: var(--info-positive-foreground) !important;
    --activity-card-background: var(--background-tertiary) !important;
    --background-accent: #292929 !important;
    --background-accent-alt: #242424 !important;
