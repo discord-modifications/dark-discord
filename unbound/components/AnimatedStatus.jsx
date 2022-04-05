@@ -1,15 +1,13 @@
+import { React, ReactSpring } from '@webpack/common';
 import { connectComponent } from '@api/settings';
 import { filters, bulk } from '@webpack';
-import { React } from '@webpack/common';
 import { uuid } from '@utilities';
 
 const [
-   Spring,
    Hooks,
    classes,
    Status
 ] = bulk(
-   filters.byProps('useSpring'),
    filters.byProps('useLazyValue'),
    filters.byProps('wrapper', 'avatar'),
    filters.byProps('getStatusMask')
@@ -25,9 +23,9 @@ const AnimatedStatus = React.memo(props => {
    const size = props.size ? props.size : 8;
 
    const statusValues = React.useMemo(() => Status.getStatusValues({ size, status, isMobile }), [size, status, isMobile]);
-   const statusDimensions = Spring.useSpring({ config, to: statusValues });
+   const statusDimensions = ReactSpring.useSpring({ config, to: statusValues });
    const statusHeight = Math.ceil(size * 1.5);
-   const statusColor = Spring.useSpring(
+   const statusColor = ReactSpring.useSpring(
       { config, fill: color },
       [color]
    )[0].fill;
@@ -42,7 +40,7 @@ const AnimatedStatus = React.memo(props => {
       className: [classes.mask, className].filter(Boolean).join(' '),
       'data-bsi-status': status,
       style
-   }, statusMask, React.createElement(Spring.animated.rect, {
+   }, statusMask, React.createElement(ReactSpring.animated.rect, {
       x: 0,
       y: 0,
       width: size,

@@ -251,7 +251,8 @@
 .theme-dark .contentTitle-3CylD3,
 .theme-dark .subText-1gefwV,
 .theme-light .subText-1gefwV,
-.theme-dark .paymentText-BPrx01 {
+.theme-dark .paymentText-BPrx01,
+.theme-dark .markdown-19oyJN {
    color: var(--text-muted);
 }
 
