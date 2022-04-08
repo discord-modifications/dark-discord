@@ -5,11 +5,11 @@
    "icon": "assets/icon.png",
    "version": "1.0.0",
    "author": "eternal",
-   "theme": "index.scss",
+   "theme": "src/index.scss",
    "discord": "HQ5N7Rcajc",
    "main": "unbound/index.js",
-   "splash": "splash.css",
-   "splashTheme": "splash.css",
+   "splash": "src/splash.css",
+   "splashTheme": "src/splash.css",
    "license": "Unlicensed",
    "consent": false
 }
