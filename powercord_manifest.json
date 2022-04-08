@@ -3,8 +3,8 @@
    "description": "An actual dark mode for discord.",
    "version": "1.0.0",
    "author": "eternal",
-   "theme": "index.scss",
+   "theme": "src/index.scss",
    "discord": "HQ5N7Rcajc",
-   "splashTheme": "splash.css",
+   "splashTheme": "src/splash.css",
    "license": "Unlicensed"
 }
