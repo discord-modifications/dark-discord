@@ -29,6 +29,6 @@
 #### Web
 - Install **Stylus** for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
 
-- Visit [this link](https://raw.githubusercontent.com/discord-modifications/dark-discord/master/DarkDiscord.user.css)
+- Visit [this link](https://raw.githubusercontent.com/discord-modifications/dark-discord/master/src/stylus.user.css)
 
 - Install the style directly into your browser
