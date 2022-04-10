@@ -4,7 +4,7 @@ import { create } from '@patcher';
 
 import AnimatedStatus from './components/AnimatedStatus';
 import Settings from './components/Settings';
-import Style from '../index';
+import Style from '../src/index';
 
 const [
    StatusStore,
