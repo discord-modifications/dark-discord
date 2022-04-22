@@ -58,6 +58,7 @@ export default class extends Theme {
       });
 
       Patcher.after(Status.prototype, 'render', (_, args, res) => {
+         if (!res || !res.type) return;
          const props = res.props;
          res = res.type(props);
 
