@@ -18,7 +18,7 @@
 
 ## Previews
 
-![Preview](https://media.wtf/46307085)
+![Preview](https://files.unbound.rip/r/033289.png)
 ## Installation
 #### BetterDiscord
 - Visit [this link](https://discord-modifications.github.io/downloader/?theme=dark-discord)
