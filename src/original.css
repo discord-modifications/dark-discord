@@ -679,8 +679,13 @@ html:not(#\20) .css-gvi9bl-control {
    box-shadow: var(--elevation-high);
 }
 
-.theme-dark .footer-VCsJQY,
 .theme-dark .message-G6O-Wv {
+   background-color: var(--background-secondary);
+   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.6), var(--elevation-high);
+   -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.6), var(--elevation-high);
+}
+
+.theme-dark .footer-VCsJQY {
    background-color: var(--background-secondary);
    box-shadow: var(--elevation-high);
 }
