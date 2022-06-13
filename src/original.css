@@ -19,6 +19,8 @@
    --background-tertiary: #0c0c0c !important;
    --bsi-invisible-color: #292929 !important;
    --bsi-offline-color: #292929 !important;
+   --modal-background: var(--background-secondary) !important;
+   --modal-footer-background: var(--background-tertiary) !important;
    --channel-text-area-placeholder: var(--text-muted) !important;
    --channels-default: var(--text-muted) !important;
    --channel-icon: var(--channels-default) !important;
@@ -332,8 +334,8 @@
 }
 
 .theme-dark .root-g14mjS {
-   background-color: var(--background-primary);
-   box-shadow: var(--elevation-high);
+   -webkit-box-shadow: 0 0 0 1px var(--background-modifier-accent), 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
+   box-shadow: 0 0 0 1px var(--background-modifier-accent), 0 2px 10px 0 rgba(0, 0, 0, .2) !important;
 }
 
 .theme-dark .row-3nMNOy {
@@ -365,7 +367,7 @@
    overflow: visible;
 }
 
-.theme-light .app-2CXKsg .container-YkUktl>.noWrap-hBpHBz>.button-12Fmur:nth-child(3) {
+.theme-light .app-2CXKsg .container-YkUktl > .noWrap-hBpHBz > .button-12Fmur:nth-child(3) {
    -ms-transform: translate(-50%, -50%);
    animation: flash 1s ease infinite;
    background: #f04747 !important;
@@ -383,7 +385,7 @@
    width: 230px;
 }
 
-.theme-light .app-2CXKsg .container-YkUktl>.noWrap-hBpHBz>.button-12Fmur:nth-child(3)::before {
+.theme-light .app-2CXKsg .container-YkUktl > .noWrap-hBpHBz > .button-12Fmur:nth-child(3)::before {
    align-items: center;
    border-radius: 5px;
    color: #fff;
@@ -429,8 +431,8 @@
    z-index: 2;
 }
 
-.theme-light .preview-rua1rr.cardPrimaryOutline-1ofwVz+.marginTop40-Q4o1tS .radioGroup-1GBvlr .cardPrimaryEditable-2mz_3i:first-of-type,
-.theme-light .preview-rua1rr.cardPrimaryOutline-1ofwVz+.marginTop40-Q4o1tS .radioGroup-1GBvlr .item-2idW98:first-of-type {
+.theme-light .preview-rua1rr.cardPrimaryOutline-1ofwVz + .marginTop40-Q4o1tS .radioGroup-1GBvlr .cardPrimaryEditable-2mz_3i:first-of-type,
+.theme-light .preview-rua1rr.cardPrimaryOutline-1ofwVz + .marginTop40-Q4o1tS .radioGroup-1GBvlr .item-2idW98:first-of-type {
    animation: flash 1s ease infinite;
    background: #f04747;
    color: #fff;
@@ -848,8 +850,8 @@ html:not(#\20) .css-gvi9bl-control {
 }
 
 .theme-dark .separator-2lLxgC {
-   -webkit-box-shadow: none;
-   box-shadow: none;
+   -webkit-box-shadow: 0 1px 0 0 var(--background-modifier-active), 0 1px 2px 0 var(--background-modifier-active);
+   box-shadow: 0 1px 0 0 var(--background-modifier-active), 0 1px 2px 0 var(--background-modifier-active);
 }
 
 .theme-dark .tierHeaderLocked-30MLlO,
