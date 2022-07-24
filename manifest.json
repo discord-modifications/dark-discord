@@ -5,9 +5,13 @@
    "icon": "assets/icon.png",
    "version": "1.0.0",
    "author": "eternal",
+   "authors": {
+      "name": "eternal",
+      "id": "263689920210534400"
+   },
    "theme": "src/index.scss",
    "discord": "HQ5N7Rcajc",
-   "main": "unbound/index.js",
+   "main": "src/source.css",
    "splash": "src/splash.css",
    "splashTheme": "src/splash.css",
    "license": "Unlicensed",
