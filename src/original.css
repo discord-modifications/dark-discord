@@ -1075,5 +1075,9 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
 }
 
 .mainCard-3KBsBI {
-   background-color: var(--background-tertiary);
+   background-color: var(--background-secondary);
+}
+
+.mainCard-3KBsBI:hover {
+   background-color: var(--background-secondary-alt);
 }
