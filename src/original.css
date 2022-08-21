@@ -1072,3 +1072,13 @@ div[style*="/assets/5e64269a40d5bb745c2f3df29f26738d.svg"] {
 .mainCard-3KBsBI {
    background-color: var(--background-secondary);
 }
+
+.previewContainer-1xQAsw .theme-light {
+   --background-primary: #fff;
+}
+
+.previewContainer-1xQAsw .theme-light {
+   --background-primary: hsl(0, calc(var(--saturation-factor, 1) * 0%), 100%) !important;
+   --text-normal: hsl(210, calc(var(--saturation-factor, 1) * 9.8%), 20%) !important;
+   --text-muted: hsl(213, calc(var(--saturation-factor, 1) * 9.6%), 40.8%) !important;
+}
