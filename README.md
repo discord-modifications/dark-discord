@@ -17,7 +17,7 @@
 
 ## Previews
 
-![Preview]([https://files.unbound.rip/r/033289.png](https://i.imgur.com/G7sIRe5.png))
+![Preview](https://i.imgur.com/G7sIRe5.png)
 ## Installation
 #### BetterDiscord
 - Visit [this link](https://localip.github.io/downloader/?theme=dark-discord)
