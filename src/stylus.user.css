@@ -3,9 +3,9 @@
     @name         Dark Discord
     @description  An actual dark mode for discord.
     @author       eternal
-    @namespace    github.com/localip/dark-discord
+    @namespace    github.com/marioparaschiv/dark-discord
     @version      1.0.0
     @supportURL   https://discord.gg/HQ5N7Rcajc
     ==/UserStyle== */
-   @import url(https://discord-modifications.github.io/dark-discord/src/source.css);
+   @import url(https://marioparaschiv.github.io/dark-discord/src/source.css);
 }
